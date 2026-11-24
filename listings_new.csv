@@ -1,0 +1,1501 @@
+listing_id,brand,year,fuel,transmission,engine_cc,city,color,mileage,mileage_unit
+L100001,Ford,2025,gasoline,automatic,1600.0,Córdoba,white,16889.0,km
+L100002,Ford,2013,electric,Automatic,1800.0,Salta,grey,210447.0,km
+L100003,Chevrolet,2012,diesel,manual,1800.0,Mendoza,white,162398.0,km
+L100004,Toyota,2008,diesel,manual,1600.0,Buenos Aires,blue,213937.0,km
+L100005,Renault,2013,gasoline,manual,2500.0,Buenos Aires,white,152619.0,km
+L100006,Chevrolet,2022,gasoline,manual,1400.0,Rosario,red,53609.0,km
+L100007,Toyota,2014,diesel,Automatic,1000.0,Mendoza,grey,70265.0,miles
+L100008,Toyota,2011,gasoline,automatic,1400.0,Rosario,blue,170903.0,km
+L100009,Ford,2018,gasoline,automatic,2500.0,Mendoza,blue,109671.0,km
+L100010,Fiat,2021,diesel,automatic,1600.0,Mendoza,blue,92750.0,km
+L100011,Renault,2009,gasoline,automatic,1000.0,Rosario,white,201381.0,km
+L100012,Toyota,2008,gasoline,automatic,1600.0,Buenos Aires,blue,214079.0,km
+L100013,Volkswagen,2022,gasoline,manual,1400.0,Mendoza,blue,56397.0,km
+L100014,Fiat,2009,gasoline,manual,1000.0,Salta,blue,231722.0,km
+L100015,Volkswagen,2023,diesel,manual,2500.0,Mendoza,blue,56339.0,km
+L100016,Fiat,2010,gasoline,manual,,Mendoza,black,186685.0,km
+L100017,Audi,2008,hybrid,manual,1400.0,Rosario,grey,110725.0,miles
+L100018,Fiat,2010,gasoline,manual,1600.0,Buenos Aires,red,134672.0,km
+L100019,Volkswagen,2011,gasoline,automatic,1800.0,Buenos Aires,silver,221010.0,km
+L100020,Toyota,2022,gasoline,automatic,1400.0,Salta,blue,57290.0,km
+L100021,Ford,2010,gasoline,automatic,3000.0,Buenos Aires,grey,217686.0,km
+L100022,Renault,2008,gasoline,manual,1800.0,Salta,blue,243042.0,km
+L100023,BMW,2010,gasoline,automatic,2500.0,Mendoza,blue,132124.0,miles
+L100024,Chevrolet,2013,gasoline,manual,1200.0,Mendoza,white,206573.0,km
+L100025,Ford,2020,hybrid,manual,1400.0,Mendoza,blue,83930.0,km
+L100026,Audi,2017,electric,automatic,2000.0,Mendoza,red,140991.0,km
+L100027,Volkswagen,2025,hybrid,Manual,3000.0,Buenos Aires,grey,7551.0,miles
+L100028,Fiat,2017,gasoline,manual,3000.0,Rosario,white,123335.0,km
+L100029,Toyota,2017,nafta,MANUAL,2500.0,Córdoba,blue,103055.0,km
+L100030,Toyota,2020,gasoline,automatic,1000.0,Rosario,red,68706.0,km
+L100031,Ford,2008,diesel,manual,1200.0,Salta,white,179339.0,km
+L100032,BMW,2017,gasoline,manual,1400.0,Córdoba,grey,115033.0,km
+L100033,Fiat,2021,diesel,manual,1200.0,Rosario,grey,64849.0,km
+L100034,BMW,2010,gasoline,manual,2500.0,Salta,black,227228.0,km
+L100035,Fiat,2021,diesel,manual,1200.0,Rosario,red,36171.0,miles
+L100036,Volkswagen,2009,hybrid,manual,2500.0,Buenos Aires,grey,188946.0,km
+L100037,Renault,2021,diesel,MANUAL,2000.0,Buenos Aires,black,55875.0,km
+L100038,Renault,2021,diesel,automatic,1400.0,Salta,silver,31900.0,miles
+L100039,BMW,2022,electric,manual,2000.0,Rosario,grey,65281.0,km
+L100040,Volkswagen,2013,diesel,MANUAL,1600.0,Mendoza,white,178539.0,km
+L100041,BMW,2010,gasoline,manual,2000.0,Buenos Aires,black,146128.0,km
+L100042,Renault,2010,electric,manual,1800.0,Rosario,black,219020.0,km
+L100043,BMW,2014,hybrid,automatic,1800.0,Salta,white,132180.0,km
+L100044,Volkswagen,2013,gasoline,manual,1400.0,Buenos Aires,grey,171721.0,km
+L100045,Fiat,2011,nafta,MANUAL,1200.0,Rosario,red,156670.0,km
+L100046,Ford,2010,hybrid,manual,1400.0,Salta,white,229730.0,km
+L100047,Renault,2022,gasoline,manual,1200.0,Mendoza,black,31409.0,km
+L100048,Ford,2021,diesel,manual,1600.0,Buenos Aires,grey,52566.0,km
+L100049,Toyota,2016,diesel,manual,1200.0,Buenos Aires,blue,132021.0,km
+L100050,Toyota,2011,hybrid,manual,1400.0,Córdoba,red,158787.0,km
+L100051,Fiat,2011,gasoline,manual,1800.0,Salta,black,196870.0,km
+L100052,Volkswagen,2018,hybrid,automatic,1800.0,Córdoba,black,80507.0,km
+L100053,BMW,2017,diesel,automatic,1600.0,Salta,silver,123289.0,km
+L100054,BMW,2015,gasoline,Manual,1400.0,Mendoza,black,161465.0,km
+L100055,Volkswagen,2012,gasoline,manual,1200.0,Salta,blue,116447.0,km
+L100056,Audi,2018,hybrid,manual,1600.0,Mendoza,white,114555.0,km
+L100057,Renault,2010,gasoline,automatic,1200.0,Rosario,blue,130407.0,miles
+L100058,Chevrolet,2024,hybrid,manual,1400.0,Mendoza,silver,17854.0,km
+L100059,Volkswagen,2013,diesel,AUTOMATIC,2000.0,Buenos Aires,grey,162458.0,km
+L100060,Toyota,2016,gasoline,automatic,2000.0,Rosario,blue,123621.0,km
+L100061,Toyota,2023,gasoline,manual,1200.0,Buenos Aires,red,66509.0,km
+L100062,Toyota,2010,hybrid,manual,2500.0,Mendoza,white,191242.0,km
+L100063,Renault,2010,gasoline,automatic,2000.0,Salta,blue,212568.0,km
+L100064,Toyota,2020,hybrid,automatic,1000.0,Salta,blue,70528.0,km
+L100065,Toyota,2020,gasoline,manual,1800.0,Salta,red,79403.0,km
+L100066,BMW,2013,hybrid,manual,2000.0,Córdoba,grey,170188.0,km
+L100067,Toyota,2018,gasoline,automatic,1400.0,Mendoza,silver,93963.0,km
+L100068,Volkswagen,2012,gasoline,manual,2000.0,Córdoba,white,190803.0,km
+L100069,Volkswagen,2017,hybrid,automatic,1200.0,Rosario,grey,64557.0,miles
+L100070,Fiat,2022,gasoline,automatic,1400.0,Salta,blue,48152.0,km
+L100071,Renault,2014,gasoline,automatic,1400.0,Rosario,black,138232.0,km
+L100072,Audi,2012,gasoline,manual,1800.0,Rosario,red,163371.0,km
+L100073,Chevrolet,2019,gasoline,manual,1400.0,Córdoba,black,96781.0,km
+L100074,Renault,2013,gasoline,manual,1400.0,Rosario,grey,108720.0,miles
+L100075,Renault,2025,hybrid,manual,2500.0,Buenos Aires,grey,954.0,km
+L100076,Renault,2015,gasoline,Automatic,2500.0,Buenos Aires,black,69574.0,miles
+L100077,Audi,2009,nafta,Automatic,3000.0,Buenos Aires,blue,205245.0,km
+L100078,Ford,2021,electric,manual,3000.0,Córdoba,grey,65819.0,km
+L100079,Fiat,2009,gasoline,automatic,1600.0,Mendoza,silver,163707.0,km
+L100080,Renault,2021,gasoline,automatic,2000.0,Mendoza,black,76174.0,km
+L100081,Toyota,2021,gasoline,manual,2000.0,Rosario,red,95124.0,km
+L100082,Ford,2015,gasoline,manual,1600.0,Rosario,blue,132358.0,km
+L100083,Audi,2011,gasoline,manual,1600.0,Córdoba,black,171129.0,km
+L100084,Chevrolet,2008,hybrid,Manual,1400.0,Rosario,black,190156.0,km
+L100085,Toyota,2019,gasoline,manual,1000.0,Salta,blue,50223.0,miles
+L100086,Ford,2008,gasoline,manual,2000.0,Rosario,grey,197854.0,km
+L100087,Toyota,2010,gasoline,manual,1600.0,Salta,white,193193.0,km
+L100088,BMW,2010,gasoline,manual,1600.0,Buenos Aires,silver,199224.0,km
+L100089,Toyota,2016,gasoline,manual,1600.0,Mendoza,white,89145.0,km
+L100090,Toyota,2025,hybrid,automatic,1000.0,Rosario,black,21984.0,km
+L100091,Audi,2013,hybrid,manual,3000.0,Salta,white,168115.0,km
+L100092,Volkswagen,2015,diesel,MANUAL,1800.0,Córdoba,black,111777.0,km
+L100093,Ford,2018,gasoline,manual,1800.0,Córdoba,grey,118588.0,km
+L100094,Toyota,2016,diesel,manual,1000.0,Mendoza,grey,153444.0,km
+L100095,Volkswagen,2024,gasoline,AUTOMATIC,1800.0,Buenos Aires,grey,19552.0,km
+L100096,Volkswagen,2020,hybrid,manual,1800.0,Mendoza,red,83661.0,km
+L100097,Renault,2016,diesel,Automatic,1600.0,Mendoza,grey,111405.0,km
+L100098,Toyota,2016,diesel,automatic,,Salta,white,113597.0,km
+L100099,Toyota,2019,gasoline,manual,2000.0,Rosario,silver,84246.0,km
+L100100,Ford,2010,diesel,automatic,1600.0,Buenos Aires,white,149658.0,km
+L100101,Volkswagen,2018,electric,Automatic,1400.0,Buenos Aires,grey,99155.0,km
+L100102,Ford,2020,diesel,manual,1400.0,Buenos Aires,silver,64307.0,km
+L100103,Renault,2008,gasoline,manual,1600.0,Salta,grey,206884.0,km
+L100104,Ford,2011,diesel,manual,1400.0,Buenos Aires,blue,173917.0,km
+L100105,BMW,2023,gasoline,automatic,1000.0,Buenos Aires,silver,30060.0,km
+L100106,Audi,2014,gasoline,manual,1000.0,Córdoba,black,173244.0,km
+L100107,Toyota,2011,diesel,manual,1400.0,Córdoba,black,182472.0,km
+L100108,Ford,2008,hybrid,manual,1800.0,Buenos Aires,red,255767.0,km
+L100109,Renault,2015,diesel,manual,1200.0,Buenos Aires,black,110504.0,km
+L100110,Chevrolet,2019,gasoline,automatic,1600.0,Rosario,silver,79128.0,km
+L100111,Toyota,2015,gasoline,automatic,1200.0,Mendoza,black,115769.0,km
+L100112,Toyota,2022,diesel,manual,1600.0,Salta,grey,41573.0,km
+L100113,Volkswagen,2009,gasoline,manual,1400.0,Salta,black,213570.0,km
+L100114,Fiat,2014,diesel,manual,1600.0,Salta,blue,162914.0,km
+L100115,BMW,2019,diesel,manual,1200.0,Rosario,grey,125421.0,km
+L100116,BMW,2008,gasoline,manual,1400.0,Rosario,grey,206509.0,km
+L100117,Chevrolet,2025,electric,manual,1800.0,Salta,blue,21401.0,km
+L100118,Toyota,2014,electric,manual,1600.0,Mendoza,black,148900.0,km
+L100119,Audi,2012,gasoline,manual,1400.0,Buenos Aires,black,161955.0,km
+L100120,Renault,2010,gasoline,manual,2000.0,Rosario,grey,187955.0,km
+L100121,Toyota,2012,hybrid,manual,1400.0,Buenos Aires,white,160880.0,km
+L100122,Ford,2011,nafta,automatic,1200.0,Mendoza,red,234200.0,km
+L100123,Fiat,2008,gasoline,manual,1600.0,Córdoba,silver,141805.0,miles
+L100124,Volkswagen,2019,gasoline,MANUAL,1800.0,Salta,silver,101656.0,km
+L100125,Volkswagen,2012,hybrid,manual,1400.0,Buenos Aires,blue,159770.0,km
+L100126,Chevrolet,2019,gasoline,automatic,1600.0,Mendoza,blue,97886.0,km
+L100127,BMW,2021,hybrid,automatic,2000.0,Córdoba,silver,64368.0,km
+L100128,Renault,2018,electric,manual,1400.0,Salta,grey,92955.0,km
+L100129,Chevrolet,2008,gasoline,automatic,2000.0,Buenos Aires,grey,219226.0,km
+L100130,Volkswagen,2015,gasoline,Automatic,1400.0,Córdoba,silver,120733.0,km
+L100131,Audi,2013,gasoline,manual,1400.0,Córdoba,red,192586.0,km
+L100132,Renault,2018,diesel,Automatic,1400.0,Córdoba,blue,93356.0,km
+L100133,Audi,2011,electric,automatic,1400.0,Salta,white,169678.0,km
+L100134,Toyota,2016,gasoline,manual,2000.0,Rosario,white,106127.0,km
+L100135,BMW,2012,diesel,automatic,1600.0,Córdoba,grey,152138.0,km
+L100136,Renault,2014,gasoline,manual,1600.0,Córdoba,grey,132896.0,km
+L100137,Fiat,2008,gasoline,Automatic,1200.0,Córdoba,red,170429.0,km
+L100138,Toyota,2009,gasoline,manual,1400.0,Mendoza,silver,189436.0,km
+L100139,Renault,2013,diesel,automatic,2000.0,Córdoba,grey,171813.0,km
+L100140,Ford,2023,gasoline,manual,1400.0,Buenos Aires,red,58168.0,km
+L100141,Toyota,2022,hybrid,manual,1600.0,Rosario,silver,62333.0,km
+L100142,Toyota,2014,gasoline,automatic,1200.0,Córdoba,black,161874.0,km
+L100143,BMW,2018,diesel,automatic,1600.0,Buenos Aires,blue,75137.0,miles
+L100144,Fiat,2023,diesel,manual,1400.0,Córdoba,grey,27683.0,km
+L100145,Ford,2008,electric,automatic,1800.0,Córdoba,red,249929.0,km
+L100146,Ford,2023,diesel,Manual,1000.0,Córdoba,blue,49553.0,km
+L100147,Volkswagen,2015,gasoline,automatic,2000.0,Buenos Aires,blue,141284.0,km
+L100148,Chevrolet,2015,nafta,automatic,1400.0,Buenos Aires,white,131460.0,km
+L100149,Toyota,2025,gasoline,manual,1800.0,Salta,white,21175.0,km
+L100150,Audi,2019,diesel,Manual,1400.0,Mendoza,white,101569.0,km
+L100151,Audi,2015,gasoline,manual,1400.0,Buenos Aires,blue,102253.0,km
+L100152,Ford,2017,hybrid,manual,2000.0,Buenos Aires,blue,117906.0,km
+L100153,Fiat,2025,hybrid,manual,1600.0,Rosario,white,21558.0,km
+L100154,Volkswagen,2022,gasoline,automatic,1400.0,Salta,black,37768.0,miles
+L100155,Fiat,2018,diesel,AUTOMATIC,1600.0,Rosario,grey,81715.0,km
+L100156,Toyota,2025,gasoline,automatic,,Rosario,white,11749.0,km
+L100157,Volkswagen,2019,gasoline,automatic,1000.0,Córdoba,red,75326.0,km
+L100158,Renault,2008,diesel,automatic,1400.0,Mendoza,silver,238221.0,km
+L100159,Fiat,2020,diesel,automatic,1600.0,Rosario,black,72411.0,miles
+L100160,Fiat,2023,gasoline,automatic,1000.0,Córdoba,black,48068.0,km
+L100161,BMW,2022,diesel,manual,2000.0,Buenos Aires,black,64110.0,km
+L100162,Ford,2012,gasoline,automatic,1400.0,Rosario,white,143066.0,km
+L100163,Toyota,2023,gasoline,manual,2000.0,Córdoba,silver,33441.0,km
+L100164,Volkswagen,2011,diesel,automatic,1600.0,Salta,silver,199113.0,km
+L100165,Renault,2021,gasoline,automatic,2500.0,Salta,white,38489.0,miles
+L100166,Audi,2020,diesel,manual,2000.0,Mendoza,black,68827.0,km
+L100167,Fiat,2012,gasoline,manual,1400.0,Buenos Aires,red,161913.0,km
+L100168,Chevrolet,2012,gasoline,,1600.0,Córdoba,white,169206.0,km
+L100169,Audi,2011,hybrid,manual,2000.0,Buenos Aires,grey,200958.0,km
+L100170,Ford,2016,hybrid,manual,1200.0,Buenos Aires,grey,134163.0,km
+L100171,Ford,2017,gasoline,automatic,1800.0,Mendoza,grey,132677.0,km
+L100172,Volkswagen,2010,gasoline,manual,1400.0,Rosario,white,198493.0,km
+L100173,Ford,2019,gasoline,automatic,1200.0,Córdoba,grey,118501.0,km
+L100174,Fiat,2008,diesel,manual,1400.0,Buenos Aires,grey,91511.0,miles
+L100175,Audi,2008,gasoline,automatic,1200.0,Rosario,grey,213607.0,km
+L100176,Toyota,2016,gasoline,manual,1400.0,Córdoba,blue,159339.0,km
+L100177,Renault,2023,gasoline,automatic,1400.0,Salta,white,36885.0,km
+L100178,Fiat,2010,gasoline,automatic,2000.0,Mendoza,silver,170920.0,km
+L100179,Volkswagen,2023,hybrid,manual,2500.0,Córdoba,black,19468.0,miles
+L100180,Audi,2024,hybrid,automatic,1400.0,Salta,black,30318.0,km
+L100181,Chevrolet,2016,electric,MANUAL,1400.0,Salta,grey,139339.0,km
+L100182,BMW,2008,gasoline,automatic,1200.0,Salta,blue,197118.0,km
+L100183,Toyota,2008,diesel,automatic,1600.0,Mendoza,red,231211.0,km
+L100184,Toyota,2010,diesel,manual,2000.0,Rosario,black,169567.0,km
+L100185,Toyota,2018,hybrid,manual,1000.0,Salta,red,102886.0,km
+L100186,BMW,2024,gasoline,automatic,1200.0,Córdoba,silver,26041.0,km
+L100187,Audi,2024,hybrid,automatic,1400.0,Buenos Aires,white,36706.0,km
+L100188,Toyota,2012,gasoline,manual,1400.0,Salta,white,182557.0,km
+L100189,Chevrolet,2015,gasoline,manual,1400.0,Buenos Aires,white,162516.0,km
+L100190,Chevrolet,2019,gasoline,manual,2000.0,Buenos Aires,white,76386.0,km
+L100191,BMW,2019,gasoline,AUTOMATIC,,Buenos Aires,black,23686.0,km
+L100192,Ford,2008,diesel,manual,1200.0,Rosario,silver,240209.0,km
+L100193,Fiat,2024,diesel,automatic,1400.0,Buenos Aires,red,33288.0,km
+L100194,Ford,2020,gasoline,automatic,1400.0,Rosario,grey,74148.0,km
+L100195,Toyota,2016,diesel,manual,1200.0,Buenos Aires,red,110638.0,km
+L100196,Chevrolet,2017,diesel,manual,3000.0,Buenos Aires,black,88565.0,km
+L100197,Toyota,2014,diesel,automatic,1400.0,Mendoza,white,145636.0,km
+L100198,Fiat,2022,gasoline,automatic,1000.0,Salta,grey,59152.0,km
+L100199,Ford,2012,gasoline,automatic,1400.0,Rosario,red,119563.0,miles
+L100200,Volkswagen,2020,diesel,automatic,1400.0,Mendoza,red,66804.0,km
+L100201,BMW,2022,gasoline,,1800.0,Córdoba,blue,33770.0,km
+L100202,Ford,2019,diesel,manual,1400.0,Rosario,grey,99838.0,km
+L100203,Volkswagen,2022,diesel,manual,1000.0,Buenos Aires,blue,69598.0,km
+L100204,Ford,2016,gasoline,manual,1200.0,Córdoba,grey,130139.0,km
+L100205,Toyota,2010,diesel,MANUAL,,Buenos Aires,black,146526.0,km
+L100206,Volkswagen,2018,gasoline,manual,1000.0,Córdoba,grey,123480.0,km
+L100207,Toyota,2019,hybrid,manual,3000.0,Córdoba,black,59464.0,km
+L100208,Chevrolet,2021,gasoline,automatic,2500.0,Córdoba,blue,74818.0,km
+L100209,Renault,2019,gasoline,manual,1600.0,Mendoza,black,26799.0,miles
+L100210,Ford,2014,gasoline,manual,2000.0,Buenos Aires,blue,120909.0,km
+L100211,Audi,2018,diesel,Automatic,1400.0,Mendoza,white,103962.0,km
+L100212,Ford,2020,gasoline,manual,1600.0,Mendoza,grey,67986.0,km
+L100213,Fiat,2008,gasoline,automatic,1200.0,Buenos Aires,silver,223198.0,km
+L100214,Chevrolet,2010,gasoline,manual,1800.0,Córdoba,white,206939.0,km
+L100215,Ford,2021,diesel,automatic,1800.0,Córdoba,blue,79621.0,km
+L100216,Toyota,2023,diesel,manual,1400.0,Buenos Aires,red,31285.0,miles
+L100217,BMW,2011,gasoline,automatic,2000.0,Rosario,black,142599.0,km
+L100218,Audi,2019,gasoline,manual,,Rosario,black,77982.0,km
+L100219,Toyota,2010,hybrid,automatic,1600.0,Salta,black,245916.0,km
+L100220,Toyota,2010,nafta,manual,2500.0,Buenos Aires,silver,186552.0,km
+L100221,Volkswagen,2015,nafta,automatic,1200.0,Córdoba,black,97011.0,km
+L100222,Renault,2012,gasoline,manual,1400.0,Córdoba,red,192085.0,km
+L100223,Audi,2009,gasoline,manual,1400.0,Buenos Aires,red,202783.0,km
+L100224,Audi,2014,diesel,manual,1600.0,Mendoza,grey,144029.0,km
+L100225,Audi,2020,electric,automatic,3000.0,Rosario,blue,97579.0,km
+L100226,Ford,2009,hybrid,automatic,1600.0,Buenos Aires,white,235963.0,km
+L100227,Renault,2012,hybrid,manual,1200.0,Córdoba,white,173892.0,km
+L100228,Volkswagen,2016,gasoline,MANUAL,1800.0,Mendoza,white,154098.0,km
+L100229,Ford,2023,gasoline,manual,1400.0,Mendoza,black,40729.0,km
+L100230,Toyota,2017,gasoline,automatic,1000.0,Salta,silver,114575.0,km
+L100231,Toyota,2009,diesel,MANUAL,1400.0,Mendoza,silver,232608.0,km
+L100232,Ford,2017,gasoline,automatic,,Córdoba,white,106468.0,km
+L100233,Toyota,2020,hybrid,manual,,Córdoba,silver,78619.0,km
+L100234,Toyota,2015,diesel,manual,1400.0,Buenos Aires,black,148751.0,km
+L100235,Toyota,2020,electric,automatic,1600.0,Mendoza,grey,79349.0,km
+L100236,Fiat,2011,diesel,manual,1400.0,Buenos Aires,grey,172989.0,km
+L100237,Volkswagen,2016,gasoline,manual,1400.0,Buenos Aires,grey,165498.0,km
+L100238,Ford,2021,gasoline,manual,1800.0,Buenos Aires,silver,66030.0,km
+L100239,Renault,2021,diesel,automatic,1000.0,Córdoba,red,80844.0,km
+L100240,Volkswagen,2015,gasoline,AUTOMATIC,1800.0,Salta,blue,127417.0,km
+L100241,Fiat,2023,gasoline,automatic,2000.0,Mendoza,white,45946.0,km
+L100242,Audi,2008,gasoline,manual,1600.0,Mendoza,red,201582.0,km
+L100243,Ford,2012,diesel,manual,1800.0,Buenos Aires,black,210750.0,km
+L100244,Fiat,2021,gasoline,manual,1400.0,Córdoba,grey,65450.0,km
+L100245,Ford,2015,gasoline,manual,1400.0,Salta,white,86635.0,miles
+L100246,Audi,2008,gasoline,manual,1400.0,Salta,red,305567.0,km
+L100247,Renault,2018,diesel,,1200.0,Buenos Aires,white,75036.0,km
+L100248,Toyota,2019,diesel,automatic,1400.0,Rosario,grey,90290.0,km
+L100249,Ford,2022,electric,manual,1400.0,Córdoba,white,53255.0,km
+L100250,Toyota,2017,gasoline,automatic,2500.0,Córdoba,silver,71962.0,miles
+L100251,Toyota,2011,gasoline,Automatic,1400.0,Salta,red,194261.0,km
+L100252,Ford,2024,gasoline,manual,1400.0,Córdoba,silver,18386.0,km
+L100253,BMW,2012,gasoline,automatic,1000.0,Salta,red,155393.0,km
+L100254,Volkswagen,2024,diesel,manual,2000.0,Buenos Aires,blue,36405.0,km
+L100255,Ford,2011,diesel,automatic,2500.0,Córdoba,grey,172566.0,km
+L100256,Volkswagen,2014,nafta,,1400.0,Buenos Aires,silver,156775.0,km
+L100257,Ford,2020,gasoline,automatic,,Mendoza,silver,49081.0,miles
+L100258,Chevrolet,2018,diesel,,1600.0,Buenos Aires,silver,122033.0,km
+L100259,Toyota,2019,gasoline,manual,2500.0,Buenos Aires,blue,67287.0,miles
+L100260,Ford,2010,gasoline,automatic,1400.0,Salta,white,225402.0,km
+L100261,Ford,2008,gasoline,automatic,1400.0,Salta,black,179885.0,km
+L100262,Toyota,2017,gasoline,manual,1200.0,Córdoba,silver,123800.0,km
+L100263,Chevrolet,2016,gasoline,automatic,1400.0,Buenos Aires,white,79029.0,miles
+L100264,Toyota,2013,hybrid,manual,1800.0,Salta,silver,116945.0,miles
+L100265,Ford,2008,diesel,automatic,2500.0,Córdoba,grey,231007.0,km
+L100266,Toyota,2015,gasoline,Automatic,1200.0,Rosario,white,166907.0,km
+L100267,Chevrolet,2012,diesel,manual,1200.0,Buenos Aires,black,143751.0,km
+L100268,Volkswagen,2014,hybrid,manual,2500.0,Córdoba,blue,120169.0,miles
+L100269,Fiat,2025,gasoline,manual,1600.0,Buenos Aires,silver,18636.0,km
+L100270,Ford,2024,nafta,manual,1600.0,Buenos Aires,red,32901.0,km
+L100271,Toyota,2008,gasoline,manual,1200.0,Córdoba,red,215260.0,km
+L100272,Ford,2018,diesel,automatic,2000.0,Mendoza,black,89160.0,km
+L100273,Chevrolet,2019,hybrid,Manual,1200.0,Córdoba,white,105282.0,km
+L100274,BMW,2023,diesel,manual,1000.0,Rosario,grey,38897.0,km
+L100275,Ford,2022,diesel,manual,1600.0,Salta,black,71634.0,km
+L100276,BMW,2015,gasoline,Manual,1800.0,Buenos Aires,blue,169240.0,km
+L100277,Toyota,2025,diesel,manual,1000.0,Rosario,black,28057.0,km
+L100278,Renault,2014,gasoline,manual,1800.0,Buenos Aires,silver,164615.0,km
+L100279,Ford,2010,gasoline,manual,1400.0,Rosario,blue,196097.0,km
+L100280,Volkswagen,2025,gasoline,,1600.0,Mendoza,grey,7951.0,miles
+L100281,Ford,2025,gasoline,automatic,1600.0,Córdoba,silver,8311.0,km
+L100282,BMW,2013,gasoline,manual,1200.0,Rosario,white,158518.0,km
+L100283,Ford,2025,hybrid,manual,1600.0,Salta,blue,26431.0,km
+L100284,Audi,2008,diesel,manual,1200.0,Buenos Aires,black,188786.0,km
+L100285,Toyota,2025,diesel,automatic,1000.0,Buenos Aires,blue,18476.0,km
+L100286,Volkswagen,2011,gasoline,manual,,Rosario,silver,179105.0,km
+L100287,Volkswagen,2013,diesel,automatic,1200.0,Buenos Aires,red,86247.0,miles
+L100288,Fiat,2021,gasoline,automatic,1600.0,Buenos Aires,blue,60555.0,km
+L100289,Ford,2011,diesel,manual,1200.0,Córdoba,black,176725.0,km
+L100290,Volkswagen,2015,gasoline,automatic,1200.0,Salta,blue,62758.0,miles
+L100291,Toyota,2012,gasoline,,1600.0,Rosario,white,123035.0,km
+L100292,Ford,2022,gasoline,automatic,1400.0,Mendoza,black,13293.0,miles
+L100293,Chevrolet,2020,nafta,automatic,1200.0,Mendoza,blue,97293.0,km
+L100294,Toyota,2020,diesel,manual,2500.0,Buenos Aires,silver,87880.0,km
+L100295,Volkswagen,2010,hybrid,,1000.0,Salta,grey,176453.0,km
+L100296,Ford,2024,gasoline,MANUAL,1800.0,Rosario,white,38477.0,km
+L100297,Toyota,2013,gasoline,manual,1000.0,Salta,red,165658.0,km
+L100298,Toyota,2010,gasoline,manual,2000.0,Salta,silver,185480.0,km
+L100299,Chevrolet,2009,diesel,automatic,1000.0,Buenos Aires,grey,235226.0,km
+L100300,Fiat,2023,gasoline,automatic,2000.0,Córdoba,white,24991.0,km
+L100301,Volkswagen,2021,diesel,manual,1600.0,Mendoza,black,38156.0,km
+L100302,Volkswagen,2011,diesel,automatic,1600.0,Salta,red,160912.0,km
+L100303,Chevrolet,2009,gasoline,manual,2000.0,Mendoza,blue,190174.0,km
+L100304,Renault,2015,gasoline,automatic,2000.0,Rosario,silver,164166.0,km
+L100305,Audi,2014,diesel,manual,2000.0,Buenos Aires,silver,176637.0,km
+L100306,Audi,2024,hybrid,automatic,1200.0,Rosario,white,13710.0,km
+L100307,Volkswagen,2015,gasoline,manual,1600.0,Rosario,red,133343.0,km
+L100308,Fiat,2013,diesel,manual,1400.0,Rosario,grey,190708.0,km
+L100309,Renault,2011,hybrid,manual,1600.0,Buenos Aires,white,217546.0,km
+L100310,Ford,2018,gasoline,automatic,2000.0,Córdoba,black,78316.0,km
+L100311,Volkswagen,2019,gasoline,manual,1200.0,Salta,white,110087.0,km
+L100312,Chevrolet,2014,diesel,automatic,1600.0,Salta,white,157540.0,km
+L100313,Renault,2023,gasoline,manual,1400.0,Salta,red,42431.0,km
+L100314,Fiat,2010,diesel,automatic,1600.0,Mendoza,black,218049.0,km
+L100315,Volkswagen,2010,electric,manual,1800.0,Mendoza,black,169527.0,km
+L100316,Audi,2017,gasoline,automatic,1000.0,Buenos Aires,grey,73058.0,miles
+L100317,Chevrolet,2012,diesel,manual,2500.0,Buenos Aires,grey,99612.0,miles
+L100318,Toyota,2009,gasoline,automatic,1800.0,Mendoza,silver,215079.0,km
+L100319,Chevrolet,2008,hybrid,manual,2500.0,Buenos Aires,white,209683.0,km
+L100320,Audi,2008,gasoline,automatic,1400.0,Salta,red,233269.0,km
+L100321,Chevrolet,2011,nafta,manual,1200.0,Rosario,silver,220553.0,km
+L100322,Ford,2015,diesel,manual,1600.0,Córdoba,white,135815.0,km
+L100323,Volkswagen,2024,gasoline,manual,2500.0,Córdoba,silver,24849.0,km
+L100324,Ford,2013,hybrid,,1800.0,Salta,black,92464.0,miles
+L100325,Toyota,2009,gasoline,manual,1400.0,Salta,blue,201032.0,km
+L100326,Volkswagen,2022,diesel,manual,2500.0,Buenos Aires,white,47852.0,km
+L100327,BMW,2008,hybrid,automatic,1000.0,Córdoba,black,241198.0,km
+L100328,Chevrolet,2016,gasoline,automatic,1000.0,Buenos Aires,blue,115661.0,km
+L100329,Fiat,2024,gasoline,manual,1000.0,Salta,silver,12397.0,km
+L100330,BMW,2014,gasoline,Manual,1600.0,Mendoza,black,150311.0,km
+L100331,Fiat,2013,hybrid,automatic,2000.0,Salta,red,165520.0,km
+L100332,Ford,2012,gasoline,manual,1400.0,Rosario,grey,183996.0,km
+L100333,Chevrolet,2024,diesel,automatic,1000.0,Rosario,blue,31856.0,km
+L100334,Volkswagen,2024,gasoline,manual,1600.0,Córdoba,red,21519.0,km
+L100335,BMW,2017,gasoline,MANUAL,1200.0,Mendoza,silver,111519.0,km
+L100336,Ford,2022,diesel,automatic,1600.0,Rosario,black,63448.0,km
+L100337,Toyota,2013,gasoline,manual,1000.0,Mendoza,silver,112541.0,miles
+L100338,Chevrolet,2018,gasoline,manual,1000.0,Buenos Aires,white,75332.0,km
+L100339,Toyota,2013,gasoline,manual,2500.0,Salta,white,180815.0,km
+L100340,BMW,2010,nafta,automatic,1400.0,Rosario,white,172704.0,km
+L100341,Volkswagen,2013,gasoline,automatic,1400.0,Rosario,blue,155558.0,km
+L100342,Chevrolet,2017,gasoline,manual,2000.0,Córdoba,black,128685.0,km
+L100343,Toyota,2008,gasoline,automatic,3000.0,Rosario,grey,237956.0,km
+L100344,Renault,2009,gasoline,automatic,3000.0,Buenos Aires,black,215980.0,km
+L100345,Fiat,2024,gasoline,automatic,2500.0,Mendoza,white,31641.0,km
+L100346,Toyota,2010,gasoline,automatic,1600.0,Salta,grey,211060.0,km
+L100347,Renault,2009,diesel,manual,1600.0,Mendoza,blue,116453.0,miles
+L100348,Toyota,2014,diesel,,3000.0,Salta,red,148204.0,km
+L100349,Ford,2023,diesel,manual,2000.0,Mendoza,red,42289.0,km
+L100350,Volkswagen,2009,diesel,automatic,1800.0,Salta,black,133979.0,miles
+L100351,Renault,2010,gasoline,automatic,1800.0,Córdoba,grey,183262.0,km
+L100352,Toyota,2009,diesel,manual,1000.0,Salta,blue,170056.0,miles
+L100353,Toyota,2020,gasoline,automatic,1200.0,Rosario,red,85304.0,km
+L100354,Chevrolet,2017,gasoline,manual,1600.0,Salta,white,138430.0,km
+L100355,Fiat,2021,diesel,manual,1400.0,Mendoza,silver,40967.0,miles
+L100356,Volkswagen,2022,gasoline,manual,1000.0,Rosario,grey,61045.0,km
+L100357,Ford,2019,hybrid,manual,1400.0,Córdoba,grey,92024.0,km
+L100358,Fiat,2012,gasoline,manual,1600.0,Buenos Aires,grey,174910.0,km
+L100359,Volkswagen,2018,hybrid,manual,1400.0,Rosario,white,107437.0,km
+L100360,Ford,2023,gasoline,manual,1600.0,Salta,white,36400.0,km
+L100361,BMW,2021,diesel,automatic,1200.0,Mendoza,blue,76170.0,km
+L100362,Ford,2010,gasoline,manual,2500.0,Córdoba,silver,144775.0,miles
+L100363,Chevrolet,2014,nafta,manual,1000.0,Mendoza,red,132547.0,km
+L100364,Renault,2015,gasoline,manual,1800.0,Córdoba,silver,121459.0,km
+L100365,Fiat,2017,hybrid,automatic,1200.0,Salta,grey,54098.0,miles
+L100366,Fiat,2014,gasoline,manual,2500.0,Mendoza,white,164511.0,km
+L100367,Chevrolet,2019,electric,manual,1400.0,Salta,blue,68935.0,miles
+L100368,BMW,2021,hybrid,manual,1600.0,Mendoza,white,75048.0,km
+L100369,Audi,2016,gasoline,manual,2000.0,Rosario,blue,108328.0,km
+L100370,Ford,2017,gasoline,manual,2500.0,Mendoza,white,113797.0,km
+L100371,Toyota,2020,gasoline,manual,1600.0,Rosario,red,86471.0,km
+L100372,BMW,2018,gasoline,automatic,1600.0,Mendoza,blue,72774.0,miles
+L100373,Ford,2013,hybrid,AUTOMATIC,1600.0,Córdoba,white,178429.0,km
+L100374,Ford,2009,gasoline,automatic,1400.0,Mendoza,grey,172887.0,km
+L100375,Chevrolet,2024,hybrid,automatic,1600.0,Salta,white,8976.0,km
+L100376,Audi,2011,gasoline,MANUAL,1000.0,Buenos Aires,black,172624.0,km
+L100377,BMW,2017,gasoline,manual,2000.0,Buenos Aires,white,80725.0,km
+L100378,Renault,2012,gasoline,manual,2000.0,Salta,black,220316.0,km
+L100379,Volkswagen,2022,gasoline,automatic,1800.0,Salta,white,25629.0,miles
+L100380,Audi,2020,gasoline,automatic,2000.0,Córdoba,silver,101923.0,km
+L100381,Chevrolet,2020,gasoline,automatic,1400.0,Rosario,black,89551.0,km
+L100382,Fiat,2023,diesel,manual,2000.0,Buenos Aires,black,37924.0,km
+L100383,Toyota,2016,electric,MANUAL,1400.0,Mendoza,white,119367.0,km
+L100384,Toyota,2024,hybrid,automatic,1000.0,Rosario,silver,36590.0,km
+L100385,Toyota,2013,gasoline,MANUAL,1400.0,Rosario,grey,187599.0,km
+L100386,BMW,2023,diesel,automatic,2000.0,Buenos Aires,red,29417.0,km
+L100387,Ford,2012,diesel,manual,1200.0,Córdoba,silver,161497.0,km
+L100388,Toyota,2022,electric,automatic,1400.0,Mendoza,grey,19889.0,miles
+L100389,Renault,2021,gasoline,automatic,2500.0,Córdoba,black,70773.0,km
+L100390,Ford,2023,diesel,MANUAL,1400.0,Buenos Aires,blue,28786.0,km
+L100391,Renault,2010,gasoline,manual,1600.0,Mendoza,black,191324.0,km
+L100392,Audi,2019,electric,manual,1600.0,Salta,blue,75923.0,km
+L100393,BMW,2025,nafta,manual,2000.0,Córdoba,grey,4306.0,miles
+L100394,Ford,2008,diesel,manual,1400.0,Mendoza,silver,220203.0,km
+L100395,Audi,2011,gasoline,automatic,1400.0,Rosario,grey,179365.0,km
+L100396,Volkswagen,2009,hybrid,manual,2500.0,Mendoza,silver,154559.0,miles
+L100397,Renault,2023,diesel,manual,1800.0,Rosario,black,41339.0,km
+L100398,Ford,2009,gasoline,manual,1400.0,Mendoza,blue,159940.0,km
+L100399,Audi,2016,diesel,automatic,2500.0,Salta,grey,145576.0,km
+L100400,Ford,2020,gasoline,automatic,2000.0,Córdoba,grey,72506.0,km
+L100401,Chevrolet,2019,diesel,automatic,1600.0,Mendoza,white,94914.0,km
+L100402,Renault,2020,hybrid,manual,1800.0,Córdoba,silver,92906.0,km
+L100403,Fiat,2008,gasoline,manual,1600.0,Mendoza,black,170067.0,km
+L100404,Toyota,2010,diesel,manual,2000.0,Córdoba,black,159652.0,km
+L100405,Renault,2014,diesel,manual,2000.0,Salta,white,111774.0,km
+L100406,Audi,2012,gasoline,manual,,Rosario,red,181342.0,km
+L100407,Renault,2018,gasoline,automatic,1600.0,Mendoza,blue,89834.0,km
+L100408,Toyota,2010,gasoline,manual,1800.0,Salta,red,213718.0,km
+L100409,Toyota,2015,electric,manual,2000.0,Córdoba,silver,151372.0,km
+L100410,Ford,2023,hybrid,automatic,1800.0,Rosario,black,31293.0,km
+L100411,Chevrolet,2017,diesel,manual,2000.0,Córdoba,black,107418.0,km
+L100412,Toyota,2021,diesel,automatic,,Córdoba,grey,49574.0,miles
+L100413,Toyota,2023,diesel,manual,1200.0,Buenos Aires,black,61854.0,km
+L100414,Fiat,2020,gasoline,manual,1400.0,Buenos Aires,grey,103416.0,km
+L100415,BMW,2025,hybrid,manual,1400.0,Salta,silver,17883.0,km
+L100416,Volkswagen,2018,hybrid,manual,1200.0,Córdoba,silver,114736.0,km
+L100417,Fiat,2022,gasoline,automatic,1000.0,Mendoza,blue,66263.0,km
+L100418,Ford,2016,gasoline,Automatic,2000.0,Buenos Aires,silver,90036.0,miles
+L100419,Ford,2014,diesel,manual,1000.0,Córdoba,red,143786.0,km
+L100420,Volkswagen,2015,hybrid,manual,1600.0,Mendoza,red,156290.0,km
+L100421,Ford,2009,gasoline,automatic,1400.0,Rosario,black,201192.0,km
+L100422,Volkswagen,2010,hybrid,manual,1400.0,Rosario,red,173011.0,km
+L100423,Toyota,2009,hybrid,manual,1400.0,Buenos Aires,red,276979.0,km
+L100424,Audi,2017,gasoline,automatic,1000.0,Salta,blue,56579.0,miles
+L100425,Fiat,2010,diesel,automatic,1000.0,Rosario,red,177989.0,km
+L100426,Toyota,2018,hybrid,automatic,1400.0,Buenos Aires,red,100114.0,km
+L100427,Toyota,2022,hybrid,automatic,1800.0,Mendoza,red,46710.0,km
+L100428,BMW,2019,hybrid,Manual,1600.0,Salta,blue,99820.0,km
+L100429,Volkswagen,2008,gasoline,automatic,1200.0,Buenos Aires,blue,212964.0,km
+L100430,Ford,2009,hybrid,manual,1400.0,Córdoba,red,179865.0,km
+L100431,Toyota,2014,gasoline,automatic,1200.0,Buenos Aires,blue,155897.0,km
+L100432,Fiat,2024,gasoline,manual,1400.0,Rosario,black,20312.0,km
+L100433,Renault,2021,gasoline,automatic,1800.0,Rosario,white,38744.0,miles
+L100434,BMW,2020,diesel,automatic,1200.0,Córdoba,blue,64887.0,km
+L100435,Toyota,2012,gasoline,automatic,1200.0,Mendoza,silver,142269.0,km
+L100436,Chevrolet,2019,gasoline,manual,1000.0,Rosario,black,66527.0,miles
+L100437,BMW,2016,gasoline,manual,3000.0,Buenos Aires,black,136809.0,km
+L100438,BMW,2012,diesel,automatic,1000.0,Mendoza,silver,164621.0,km
+L100439,Chevrolet,2020,diesel,manual,1400.0,Salta,silver,76480.0,km
+L100440,Volkswagen,2016,gasoline,automatic,1600.0,Rosario,blue,97734.0,km
+L100441,Toyota,2025,gasoline,manual,2000.0,Buenos Aires,black,7017.0,km
+L100442,Fiat,2019,gasoline,automatic,1400.0,Salta,grey,87685.0,km
+L100443,Toyota,2021,diesel,automatic,1200.0,Mendoza,grey,48756.0,miles
+L100444,Toyota,2011,gasoline,manual,1200.0,Rosario,white,168169.0,km
+L100445,Volkswagen,2013,gasoline,automatic,1400.0,Salta,red,94297.0,miles
+L100446,Toyota,2019,diesel,automatic,1200.0,Salta,silver,62341.0,km
+L100447,Volkswagen,2025,gasoline,manual,2000.0,Rosario,red,18513.0,km
+L100448,BMW,2018,gasoline,MANUAL,1800.0,Salta,red,82206.0,km
+L100449,Toyota,2011,diesel,automatic,1400.0,Mendoza,black,160559.0,km
+L100450,Chevrolet,2021,gasoline,manual,1400.0,Rosario,white,40888.0,km
+L100451,Audi,2017,gasoline,manual,1400.0,Buenos Aires,grey,110241.0,km
+L100452,Toyota,2017,gasoline,manual,1400.0,Salta,white,145682.0,km
+L100453,Volkswagen,2014,gasoline,manual,1400.0,Rosario,silver,104980.0,miles
+L100454,Fiat,2020,gasoline,Manual,2000.0,Mendoza,white,53829.0,km
+L100455,Chevrolet,2019,diesel,manual,2500.0,Rosario,silver,117856.0,km
+L100456,Ford,2025,electric,manual,1600.0,Rosario,black,12562.0,km
+L100457,Chevrolet,2011,hybrid,automatic,1000.0,Rosario,black,196404.0,km
+L100458,Volkswagen,2019,diesel,Manual,1200.0,Rosario,grey,94691.0,km
+L100459,Ford,2020,gasoline,manual,1800.0,Buenos Aires,black,116838.0,km
+L100460,Renault,2008,hybrid,manual,1400.0,Mendoza,silver,188193.0,km
+L100461,Renault,2018,nafta,,2000.0,Córdoba,black,68768.0,miles
+L100462,BMW,2009,gasoline,manual,1600.0,Rosario,blue,207343.0,km
+L100463,Fiat,2022,diesel,manual,1600.0,Salta,grey,45311.0,km
+L100464,Toyota,2015,diesel,automatic,1000.0,Salta,red,146268.0,km
+L100465,Renault,2013,hybrid,automatic,,Buenos Aires,white,132295.0,km
+L100466,Ford,2015,diesel,automatic,1800.0,Salta,blue,180501.0,km
+L100467,Fiat,2024,diesel,automatic,1600.0,Mendoza,silver,37976.0,km
+L100468,Toyota,2018,diesel,Manual,1400.0,Salta,grey,44360.0,miles
+L100469,Fiat,2015,hybrid,manual,1200.0,Rosario,red,140323.0,km
+L100470,Chevrolet,2015,gasoline,manual,1400.0,Salta,grey,71014.0,miles
+L100471,Toyota,2010,diesel,automatic,1200.0,Buenos Aires,silver,128592.0,miles
+L100472,Toyota,2015,diesel,automatic,1000.0,Salta,red,133195.0,km
+L100473,BMW,2024,gasoline,manual,1000.0,Rosario,red,47739.0,km
+L100474,BMW,2009,hybrid,manual,1800.0,Mendoza,red,252986.0,km
+L100475,Toyota,2018,hybrid,manual,1400.0,Salta,red,50761.0,miles
+L100476,Audi,2022,gasoline,manual,1000.0,Buenos Aires,black,53331.0,km
+L100477,Volkswagen,2017,electric,automatic,1000.0,Rosario,white,91587.0,km
+L100478,Renault,2017,gasoline,manual,1200.0,Salta,red,129811.0,km
+L100479,Volkswagen,2023,gasoline,manual,1800.0,Rosario,white,45119.0,km
+L100480,Ford,2024,gasoline,manual,1600.0,Rosario,red,42226.0,km
+L100481,BMW,2014,electric,automatic,1800.0,Córdoba,black,186375.0,km
+L100482,Renault,2024,gasoline,automatic,1200.0,Mendoza,silver,26732.0,km
+L100483,Audi,2024,electric,automatic,1600.0,Rosario,grey,34327.0,km
+L100484,Fiat,2025,gasoline,manual,2500.0,Salta,silver,0.0,km
+L100485,Audi,2015,gasoline,manual,2500.0,Buenos Aires,red,148640.0,km
+L100486,Renault,2019,hybrid,automatic,1200.0,Mendoza,blue,89742.0,km
+L100487,Volkswagen,2018,gasoline,manual,1800.0,Buenos Aires,black,109032.0,km
+L100488,Renault,2009,diesel,AUTOMATIC,1000.0,Córdoba,red,199005.0,km
+L100489,Toyota,2010,gasoline,manual,2500.0,Rosario,silver,262766.0,km
+L100490,Chevrolet,2015,gasoline,manual,1000.0,Salta,silver,118040.0,km
+L100491,Toyota,2013,diesel,Automatic,2500.0,Rosario,black,151445.0,km
+L100492,Audi,2017,gasoline,automatic,1600.0,Buenos Aires,white,105132.0,km
+L100493,Toyota,2012,gasoline,manual,1400.0,Salta,black,201951.0,km
+L100494,Fiat,2012,gasoline,manual,1600.0,Mendoza,blue,188655.0,km
+L100495,Chevrolet,2013,diesel,manual,1400.0,Córdoba,white,174774.0,km
+L100496,Renault,2008,diesel,manual,1400.0,Salta,blue,191672.0,km
+L100497,Toyota,2016,hybrid,manual,1800.0,Salta,black,148258.0,km
+L100498,Chevrolet,2021,gasoline,automatic,1400.0,Buenos Aires,black,71027.0,km
+L100499,Ford,2010,diesel,manual,2500.0,Salta,blue,177445.0,km
+L100500,Ford,2021,gasoline,automatic,1000.0,Córdoba,black,24469.0,km
+L100501,Fiat,2018,diesel,automatic,1400.0,Buenos Aires,black,115979.0,km
+L100502,Audi,2011,gasoline,manual,1400.0,Buenos Aires,grey,114436.0,miles
+L100503,Toyota,2014,gasoline,automatic,1000.0,Buenos Aires,red,96667.0,km
+L100504,Volkswagen,2008,hybrid,automatic,1600.0,Rosario,blue,253363.0,km
+L100505,Fiat,2022,diesel,MANUAL,1400.0,Rosario,white,69848.0,km
+L100506,Ford,2021,diesel,automatic,2000.0,Rosario,blue,37774.0,km
+L100507,Audi,2025,diesel,manual,2000.0,Salta,blue,23865.0,km
+L100508,Renault,2020,gasoline,automatic,1200.0,Salta,red,88396.0,km
+L100509,Toyota,2010,hybrid,automatic,2500.0,Buenos Aires,black,177041.0,km
+L100510,Toyota,2010,diesel,automatic,1400.0,Rosario,blue,185528.0,km
+L100511,Toyota,2023,diesel,manual,1600.0,Rosario,black,37331.0,km
+L100512,Volkswagen,2011,electric,manual,2000.0,Córdoba,blue,136035.0,miles
+L100513,Audi,2022,diesel,automatic,1800.0,Mendoza,red,46608.0,km
+L100514,Toyota,2012,diesel,automatic,1800.0,Rosario,silver,174313.0,km
+L100515,Toyota,2011,diesel,MANUAL,1600.0,Córdoba,blue,110882.0,miles
+L100516,Ford,2019,diesel,automatic,2000.0,Córdoba,silver,74730.0,km
+L100517,Renault,2012,hybrid,automatic,2500.0,Rosario,white,181956.0,km
+L100518,Volkswagen,2023,gasoline,MANUAL,1200.0,Salta,blue,22607.0,km
+L100519,Volkswagen,2024,gasoline,manual,1000.0,Rosario,grey,10632.0,km
+L100520,Toyota,2022,gasoline,manual,3000.0,Rosario,grey,28765.0,km
+L100521,BMW,2020,hybrid,Manual,2000.0,Mendoza,red,88809.0,km
+L100522,Volkswagen,2011,gasoline,automatic,1400.0,Buenos Aires,silver,242245.0,km
+L100523,BMW,2021,gasoline,manual,1400.0,Córdoba,red,73265.0,km
+L100524,Toyota,2013,gasoline,manual,1000.0,Rosario,white,161565.0,km
+L100525,Volkswagen,2010,diesel,MANUAL,,Rosario,grey,201105.0,km
+L100526,Volkswagen,2017,diesel,Automatic,2000.0,Mendoza,silver,125067.0,km
+L100527,BMW,2020,gasoline,automatic,1600.0,Buenos Aires,silver,76123.0,km
+L100528,Fiat,2019,gasoline,manual,1200.0,Salta,black,76754.0,km
+L100529,Renault,2017,diesel,Automatic,1400.0,Córdoba,red,140488.0,km
+L100530,Toyota,2012,gasoline,manual,2000.0,Mendoza,white,176058.0,km
+L100531,Fiat,2019,gasoline,manual,3000.0,Rosario,grey,87402.0,km
+L100532,BMW,2014,hybrid,manual,1800.0,Rosario,grey,164763.0,km
+L100533,Chevrolet,2010,gasoline,manual,1800.0,Salta,grey,233809.0,km
+L100534,Audi,2018,gasoline,automatic,1400.0,Rosario,white,104044.0,km
+L100535,Renault,2018,gasoline,manual,1600.0,Buenos Aires,black,113774.0,km
+L100536,Ford,2019,diesel,manual,1800.0,Mendoza,silver,50803.0,miles
+L100537,Ford,2019,diesel,manual,2500.0,Córdoba,silver,82775.0,km
+L100538,Chevrolet,2021,diesel,automatic,1800.0,Córdoba,white,75467.0,km
+L100539,Chevrolet,2018,diesel,automatic,1600.0,Córdoba,blue,116791.0,km
+L100540,Fiat,2017,gasoline,automatic,2000.0,Mendoza,grey,121756.0,km
+L100541,Chevrolet,2010,diesel,MANUAL,1600.0,Mendoza,silver,222143.0,km
+L100542,Volkswagen,2008,diesel,automatic,1200.0,Mendoza,red,206449.0,km
+L100543,BMW,2012,diesel,MANUAL,2000.0,Mendoza,white,140791.0,km
+L100544,Fiat,2012,diesel,manual,2500.0,Salta,grey,87636.0,miles
+L100545,Ford,2012,gasoline,manual,1800.0,Mendoza,red,182625.0,km
+L100546,Renault,2017,diesel,manual,1600.0,Córdoba,white,81264.0,km
+L100547,Fiat,2012,diesel,manual,1200.0,Rosario,blue,189477.0,km
+L100548,Ford,2013,electric,automatic,1400.0,Salta,white,168217.0,km
+L100549,Audi,2011,hybrid,manual,1800.0,Buenos Aires,red,129299.0,miles
+L100550,Chevrolet,2025,gasoline,manual,1000.0,Mendoza,red,7338.0,miles
+L100551,Toyota,2015,electric,automatic,2500.0,Rosario,white,119288.0,km
+L100552,Ford,2012,gasoline,manual,1400.0,Córdoba,blue,117691.0,miles
+L100553,Toyota,2024,gasoline,MANUAL,1200.0,Buenos Aires,silver,21379.0,km
+L100554,Audi,2023,gasoline,Automatic,1800.0,Rosario,grey,39060.0,km
+L100555,Toyota,2017,gasoline,automatic,2000.0,Mendoza,black,71988.0,miles
+L100556,BMW,2011,gasoline,Automatic,1600.0,Salta,blue,182849.0,km
+L100557,Renault,2010,gasoline,manual,1600.0,Córdoba,blue,202621.0,km
+L100558,Toyota,2021,gasoline,manual,1800.0,Buenos Aires,red,70836.0,km
+L100559,Ford,2012,nafta,,2000.0,Salta,silver,167436.0,km
+L100560,Ford,2020,gasoline,manual,2500.0,Salta,white,78274.0,km
+L100561,Chevrolet,2013,hybrid,automatic,2500.0,Salta,silver,107121.0,miles
+L100562,Volkswagen,2025,gasoline,,1600.0,Buenos Aires,red,1849.0,km
+L100563,Toyota,2010,gasoline,automatic,1600.0,Mendoza,black,225919.0,km
+L100564,Audi,2020,gasoline,manual,1000.0,Buenos Aires,silver,82122.0,km
+L100565,Renault,2021,gasoline,automatic,1200.0,Salta,silver,53599.0,km
+L100566,Toyota,2024,electric,manual,1000.0,Mendoza,white,26835.0,km
+L100567,Audi,2023,hybrid,automatic,1000.0,Salta,blue,52212.0,km
+L100568,Fiat,2023,hybrid,automatic,1800.0,Córdoba,grey,38810.0,km
+L100569,Volkswagen,2016,hybrid,AUTOMATIC,1000.0,Rosario,grey,129675.0,km
+L100570,Toyota,2014,hybrid,manual,1600.0,Córdoba,silver,167396.0,km
+L100571,Fiat,2021,gasoline,automatic,3000.0,Rosario,red,82008.0,km
+L100572,Toyota,2017,hybrid,manual,1600.0,Mendoza,red,112687.0,km
+L100573,Audi,2024,hybrid,manual,1600.0,Buenos Aires,black,29376.0,km
+L100574,Chevrolet,2009,gasoline,automatic,1000.0,Buenos Aires,silver,196993.0,km
+L100575,Fiat,2025,hybrid,manual,1400.0,Córdoba,white,16166.0,km
+L100576,Chevrolet,2011,diesel,manual,1000.0,Salta,white,203526.0,km
+L100577,BMW,2013,gasoline,manual,1200.0,Salta,red,169496.0,km
+L100578,Volkswagen,2023,hybrid,manual,2000.0,Salta,black,33500.0,km
+L100579,Chevrolet,2018,gasoline,automatic,1600.0,Rosario,white,116412.0,km
+L100580,Toyota,2011,diesel,automatic,1400.0,Mendoza,black,172869.0,km
+L100581,Fiat,2018,gasoline,manual,1800.0,Córdoba,blue,89397.0,km
+L100582,Chevrolet,2013,diesel,Manual,1400.0,Buenos Aires,blue,148682.0,km
+L100583,Ford,2018,hybrid,manual,2000.0,Mendoza,silver,76791.0,km
+L100584,Toyota,2011,gasoline,manual,1200.0,Mendoza,white,219556.0,km
+L100585,Audi,2015,diesel,manual,1200.0,Mendoza,red,59879.0,miles
+L100586,BMW,2022,gasoline,manual,3000.0,Mendoza,blue,52310.0,km
+L100587,Toyota,2009,electric,automatic,1000.0,Rosario,silver,135347.0,miles
+L100588,Renault,2010,gasoline,manual,1800.0,Mendoza,silver,168062.0,km
+L100589,Toyota,2021,gasoline,manual,1400.0,Salta,white,77988.0,km
+L100590,Ford,2018,gasoline,manual,1600.0,Córdoba,blue,119320.0,km
+L100591,Audi,2023,hybrid,automatic,2000.0,Córdoba,silver,50315.0,km
+L100592,Fiat,2010,gasoline,automatic,1400.0,Salta,silver,190659.0,km
+L100593,Chevrolet,2008,hybrid,manual,2000.0,Rosario,black,250438.0,km
+L100594,Ford,2023,diesel,automatic,1600.0,Mendoza,red,12957.0,km
+L100595,Chevrolet,2009,nafta,automatic,1800.0,Rosario,red,250772.0,km
+L100596,Fiat,2010,hybrid,manual,1200.0,Salta,grey,203401.0,km
+L100597,Ford,2014,gasoline,manual,2500.0,Mendoza,white,154665.0,km
+L100598,Volkswagen,2018,diesel,Manual,1800.0,Salta,black,95277.0,km
+L100599,Ford,2024,gasoline,automatic,1200.0,Rosario,white,36779.0,km
+L100600,Renault,2025,diesel,automatic,1400.0,Mendoza,grey,10106.0,km
+L100601,Toyota,2020,gasoline,manual,2000.0,Rosario,blue,75386.0,km
+L100602,Volkswagen,2020,diesel,manual,1400.0,Buenos Aires,silver,79309.0,km
+L100603,BMW,2012,diesel,manual,2500.0,Buenos Aires,blue,191437.0,km
+L100604,Fiat,2018,hybrid,automatic,1400.0,Córdoba,blue,70497.0,km
+L100605,Renault,2025,diesel,manual,1800.0,Córdoba,grey,18078.0,km
+L100606,Toyota,2021,diesel,manual,1600.0,Córdoba,red,66394.0,km
+L100607,BMW,2012,gasoline,Manual,2000.0,Mendoza,grey,195706.0,km
+L100608,Renault,2015,hybrid,automatic,1000.0,Mendoza,black,124719.0,km
+L100609,Audi,2008,hybrid,manual,1800.0,Rosario,red,120229.0,miles
+L100610,Audi,2009,gasoline,manual,1400.0,Buenos Aires,red,208047.0,km
+L100611,Audi,2011,diesel,automatic,2000.0,Mendoza,black,185167.0,km
+L100612,Renault,2020,gasoline,manual,1200.0,Salta,silver,67417.0,km
+L100613,Chevrolet,2018,hybrid,automatic,1800.0,Rosario,silver,93903.0,km
+L100614,Toyota,2023,electric,manual,1800.0,Buenos Aires,grey,52034.0,km
+L100615,Toyota,2018,diesel,manual,1400.0,Buenos Aires,grey,104762.0,km
+L100616,Chevrolet,2012,nafta,Manual,1600.0,Buenos Aires,blue,189672.0,km
+L100617,Fiat,2025,diesel,automatic,1800.0,Salta,white,5601.0,km
+L100618,Audi,2016,diesel,manual,2500.0,Salta,white,74631.0,miles
+L100619,Ford,2013,gasoline,manual,1000.0,Buenos Aires,black,130099.0,km
+L100620,Volkswagen,2022,gasoline,automatic,1200.0,Salta,silver,39940.0,miles
+L100621,Chevrolet,2024,gasoline,automatic,2000.0,Mendoza,black,40467.0,km
+L100622,Renault,2012,gasoline,automatic,1200.0,Buenos Aires,white,236278.0,km
+L100623,BMW,2017,gasoline,AUTOMATIC,2000.0,Salta,white,121296.0,km
+L100624,Volkswagen,2013,gasoline,manual,1000.0,Rosario,grey,153808.0,km
+L100625,BMW,2010,gasoline,automatic,1600.0,Mendoza,red,242743.0,km
+L100626,BMW,2014,diesel,manual,1800.0,Córdoba,black,182277.0,km
+L100627,BMW,2021,diesel,automatic,1200.0,Salta,white,29671.0,miles
+L100628,Volkswagen,2010,gasoline,AUTOMATIC,1800.0,Salta,white,185722.0,km
+L100629,BMW,2012,gasoline,automatic,1200.0,Córdoba,black,86183.0,miles
+L100630,Ford,2024,diesel,automatic,1800.0,Buenos Aires,grey,16178.0,km
+L100631,Renault,2019,diesel,manual,1000.0,Salta,silver,59430.0,km
+L100632,Audi,2019,gasoline,manual,2000.0,Rosario,black,70747.0,km
+L100633,Fiat,2025,diesel,manual,1800.0,Córdoba,red,24826.0,km
+L100634,Renault,2020,gasoline,automatic,2000.0,Córdoba,silver,89140.0,km
+L100635,Volkswagen,2024,hybrid,manual,1600.0,Mendoza,white,25842.0,miles
+L100636,Renault,2021,diesel,automatic,1600.0,Buenos Aires,blue,47743.0,km
+L100637,Volkswagen,2012,diesel,automatic,1800.0,Buenos Aires,white,179472.0,km
+L100638,Fiat,2023,gasoline,automatic,1800.0,Salta,blue,26768.0,miles
+L100639,Renault,2024,gasoline,manual,1400.0,Mendoza,blue,20353.0,km
+L100640,Ford,2017,diesel,automatic,1800.0,Salta,red,133473.0,km
+L100641,Toyota,2020,gasoline,automatic,1200.0,Rosario,blue,96656.0,km
+L100642,Audi,2025,gasoline,manual,1600.0,Salta,blue,17437.0,km
+L100643,Renault,2024,diesel,automatic,1800.0,Rosario,red,38274.0,km
+L100644,Toyota,2008,gasoline,Automatic,1200.0,Salta,red,220359.0,km
+L100645,Ford,2008,diesel,manual,1200.0,Salta,grey,255465.0,km
+L100646,Fiat,2012,gasoline,manual,1800.0,Salta,red,202000.0,km
+L100647,Ford,2013,gasoline,automatic,1200.0,Rosario,blue,132668.0,km
+L100648,BMW,2011,gasoline,manual,1400.0,Mendoza,white,105594.0,miles
+L100649,Renault,2012,gasoline,manual,3000.0,Córdoba,blue,197090.0,km
+L100650,Fiat,2018,diesel,automatic,1600.0,Rosario,blue,106694.0,km
+L100651,Fiat,2010,gasoline,manual,1200.0,Córdoba,red,244743.0,km
+L100652,Toyota,2021,diesel,automatic,2000.0,Buenos Aires,red,62378.0,km
+L100653,Audi,2024,diesel,automatic,3000.0,Mendoza,black,13074.0,miles
+L100654,BMW,2023,gasoline,AUTOMATIC,1400.0,Salta,blue,49963.0,km
+L100655,Toyota,2021,gasoline,automatic,1600.0,Buenos Aires,red,60443.0,km
+L100656,Renault,2025,gasoline,automatic,1600.0,Salta,red,3293.0,km
+L100657,Renault,2009,gasoline,manual,1600.0,Córdoba,blue,189264.0,km
+L100658,Ford,2024,gasoline,automatic,1200.0,Buenos Aires,blue,36121.0,km
+L100659,Volkswagen,2014,gasoline,manual,1000.0,Mendoza,red,150577.0,km
+L100660,Ford,2016,gasoline,automatic,1400.0,Salta,red,125367.0,km
+L100661,Fiat,2025,gasoline,manual,1600.0,Rosario,black,19455.0,km
+L100662,Volkswagen,2016,gasoline,automatic,1200.0,Córdoba,black,134223.0,km
+L100663,Toyota,2011,gasoline,manual,1200.0,Salta,white,201212.0,km
+L100664,Ford,2017,diesel,manual,2000.0,Mendoza,blue,107487.0,km
+L100665,Toyota,2022,diesel,automatic,1400.0,Mendoza,red,67404.0,km
+L100666,Fiat,2008,diesel,automatic,1400.0,Córdoba,black,227491.0,km
+L100667,Renault,2019,gasoline,automatic,2500.0,Buenos Aires,silver,77447.0,km
+L100668,Volkswagen,2016,diesel,automatic,2000.0,Rosario,black,142045.0,km
+L100669,Renault,2015,diesel,automatic,1000.0,Córdoba,black,103740.0,miles
+L100670,Fiat,2020,gasoline,automatic,2000.0,Rosario,grey,60017.0,km
+L100671,Ford,2014,gasoline,manual,1600.0,Salta,blue,162425.0,km
+L100672,Toyota,2009,hybrid,manual,1400.0,Córdoba,silver,254208.0,km
+L100673,Audi,2013,gasoline,manual,1600.0,Rosario,grey,172370.0,km
+L100674,Toyota,2013,gasoline,manual,1200.0,Buenos Aires,black,120753.0,km
+L100675,Ford,2025,diesel,AUTOMATIC,1800.0,Buenos Aires,grey,18187.0,km
+L100676,Fiat,2010,gasoline,manual,1600.0,Salta,grey,226285.0,km
+L100677,Audi,2023,diesel,automatic,1200.0,Mendoza,black,54280.0,km
+L100678,Toyota,2009,gasoline,manual,1800.0,Buenos Aires,silver,209478.0,km
+L100679,Volkswagen,2018,diesel,manual,1200.0,Buenos Aires,red,101983.0,km
+L100680,BMW,2013,gasoline,automatic,1200.0,Rosario,white,152166.0,km
+L100681,Toyota,2019,gasoline,manual,1800.0,Salta,blue,73951.0,km
+L100682,Ford,2015,diesel,automatic,1400.0,Rosario,blue,120912.0,km
+L100683,Renault,2015,hybrid,manual,1400.0,Buenos Aires,blue,147672.0,km
+L100684,BMW,2010,gasoline,automatic,1200.0,Salta,red,191499.0,km
+L100685,Toyota,2024,gasoline,automatic,1600.0,Córdoba,black,16292.0,km
+L100686,Volkswagen,2019,gasoline,automatic,1400.0,Rosario,black,57647.0,km
+L100687,Renault,2019,gasoline,MANUAL,1800.0,Mendoza,white,77273.0,km
+L100688,Renault,2019,hybrid,automatic,2500.0,Buenos Aires,blue,69653.0,miles
+L100689,Renault,2017,diesel,manual,2000.0,Mendoza,blue,79391.0,km
+L100690,Audi,2025,gasoline,manual,1600.0,Rosario,red,18778.0,km
+L100691,Audi,2011,gasoline,manual,2500.0,Córdoba,blue,67475.0,miles
+L100692,Ford,2020,gasoline,manual,2000.0,Mendoza,silver,99302.0,km
+L100693,Ford,2010,gasoline,manual,1800.0,Rosario,red,239920.0,km
+L100694,Volkswagen,2008,gasoline,manual,1000.0,Buenos Aires,red,243005.0,km
+L100695,Toyota,2024,gasoline,manual,1400.0,Buenos Aires,white,38808.0,km
+L100696,Toyota,2010,gasoline,manual,1600.0,Rosario,black,132856.0,miles
+L100697,Renault,2009,diesel,automatic,1800.0,Córdoba,red,211267.0,km
+L100698,Audi,2024,diesel,manual,1400.0,Salta,silver,37874.0,km
+L100699,Ford,2021,diesel,AUTOMATIC,,Buenos Aires,white,42430.0,km
+L100700,Toyota,2010,gasoline,automatic,1200.0,Rosario,grey,193196.0,km
+L100701,Renault,2022,gasoline,MANUAL,1400.0,Rosario,grey,41878.0,km
+L100702,Ford,2011,diesel,Automatic,1400.0,Rosario,blue,206181.0,km
+L100703,Toyota,2009,gasoline,automatic,1600.0,Salta,white,149833.0,miles
+L100704,Toyota,2016,gasoline,manual,1400.0,Buenos Aires,white,155559.0,km
+L100705,BMW,2009,gasoline,manual,1600.0,Buenos Aires,black,237521.0,km
+L100706,Toyota,2022,gasoline,manual,2000.0,Córdoba,silver,57098.0,km
+L100707,Fiat,2019,gasoline,automatic,1200.0,Buenos Aires,white,111031.0,km
+L100708,Volkswagen,2016,gasoline,manual,1800.0,Salta,red,151679.0,km
+L100709,Chevrolet,2011,hybrid,manual,1200.0,Córdoba,grey,197389.0,km
+L100710,Renault,2008,hybrid,manual,1400.0,Buenos Aires,black,146277.0,miles
+L100711,Ford,2011,gasoline,automatic,1800.0,Salta,silver,185457.0,km
+L100712,Ford,2014,diesel,manual,1600.0,Córdoba,silver,130488.0,km
+L100713,Ford,2021,hybrid,automatic,1000.0,Buenos Aires,grey,82169.0,km
+L100714,Ford,2025,gasoline,automatic,1200.0,Rosario,silver,21116.0,km
+L100715,Ford,2021,electric,AUTOMATIC,1200.0,Salta,black,48625.0,miles
+L100716,Ford,2012,gasoline,automatic,1800.0,Salta,blue,115470.0,miles
+L100717,Renault,2020,gasoline,automatic,1400.0,Rosario,silver,104508.0,km
+L100718,Renault,2020,gasoline,AUTOMATIC,1600.0,Mendoza,white,56466.0,km
+L100719,Toyota,2023,gasoline,manual,1400.0,Córdoba,black,27446.0,miles
+L100720,Volkswagen,2013,diesel,automatic,1000.0,Buenos Aires,black,189499.0,km
+L100721,Audi,2023,diesel,AUTOMATIC,1800.0,Mendoza,silver,58548.0,km
+L100722,Audi,2008,gasoline,manual,1600.0,Mendoza,silver,223319.0,km
+L100723,Ford,2013,gasoline,manual,1400.0,Córdoba,silver,186549.0,km
+L100724,Toyota,2014,gasoline,manual,1400.0,Rosario,silver,154743.0,km
+L100725,Ford,2015,hybrid,automatic,1600.0,Mendoza,silver,129386.0,km
+L100726,Toyota,2016,electric,automatic,1800.0,Rosario,grey,121928.0,km
+L100727,Ford,2019,diesel,automatic,3000.0,Salta,black,58440.0,miles
+L100728,Audi,2023,gasoline,automatic,,Salta,red,61355.0,km
+L100729,BMW,2015,gasoline,manual,,Córdoba,silver,77071.0,miles
+L100730,Volkswagen,2011,gasoline,AUTOMATIC,2000.0,Rosario,silver,172414.0,km
+L100731,Renault,2009,diesel,automatic,1000.0,Rosario,blue,197528.0,km
+L100732,Fiat,2023,diesel,Automatic,1400.0,Buenos Aires,black,24886.0,km
+L100733,Fiat,2012,diesel,manual,1000.0,Mendoza,white,174138.0,km
+L100734,Fiat,2010,gasoline,manual,1400.0,Salta,grey,153837.0,km
+L100735,Chevrolet,2019,hybrid,AUTOMATIC,1600.0,Córdoba,black,115262.0,km
+L100736,Renault,2013,diesel,automatic,1200.0,Rosario,blue,178022.0,km
+L100737,Toyota,2020,gasoline,MANUAL,2500.0,Buenos Aires,silver,53517.0,km
+L100738,Fiat,2015,gasoline,manual,2000.0,Buenos Aires,blue,141136.0,km
+L100739,Fiat,2023,gasoline,manual,1800.0,Buenos Aires,white,33004.0,km
+L100740,Toyota,2025,gasoline,automatic,,Rosario,blue,20481.0,km
+L100741,Toyota,2015,gasoline,Automatic,1000.0,Salta,blue,150304.0,km
+L100742,Fiat,2014,gasoline,Automatic,2000.0,Córdoba,red,151740.0,km
+L100743,Volkswagen,2023,diesel,automatic,1400.0,Buenos Aires,black,16439.0,km
+L100744,Chevrolet,2014,hybrid,manual,2500.0,Rosario,blue,195186.0,km
+L100745,Ford,2013,gasoline,manual,1800.0,Buenos Aires,silver,185243.0,km
+L100746,Fiat,2008,nafta,automatic,1000.0,Buenos Aires,white,224101.0,km
+L100747,Renault,2009,hybrid,manual,1000.0,Mendoza,red,106599.0,miles
+L100748,Toyota,2012,gasoline,manual,1800.0,Mendoza,black,168909.0,km
+L100749,Ford,2012,gasoline,automatic,2500.0,Mendoza,black,124314.0,km
+L100750,Ford,2019,diesel,,1200.0,Mendoza,black,104121.0,km
+L100751,Ford,2025,diesel,automatic,1400.0,Buenos Aires,grey,19601.0,km
+L100752,Toyota,2021,gasoline,manual,2000.0,Salta,red,63575.0,km
+L100753,Ford,2019,gasoline,manual,,Mendoza,silver,99274.0,km
+L100754,Renault,2015,gasoline,automatic,1000.0,Córdoba,red,113377.0,miles
+L100755,Ford,2013,nafta,automatic,1000.0,Córdoba,red,155747.0,km
+L100756,Fiat,2024,diesel,automatic,1800.0,Buenos Aires,white,20314.0,miles
+L100757,Volkswagen,2022,diesel,automatic,1800.0,Buenos Aires,silver,49996.0,km
+L100758,Volkswagen,2008,diesel,automatic,1000.0,Mendoza,white,97939.0,miles
+L100759,Ford,2024,diesel,automatic,1000.0,Mendoza,red,46655.0,km
+L100760,Chevrolet,2019,hybrid,automatic,1800.0,Salta,white,102398.0,km
+L100761,Toyota,2016,electric,manual,1800.0,Buenos Aires,black,143878.0,km
+L100762,Audi,2014,gasoline,automatic,,Buenos Aires,white,151612.0,km
+L100763,Renault,2014,nafta,manual,1000.0,Buenos Aires,grey,196265.0,km
+L100764,Audi,2017,gasoline,automatic,2500.0,Rosario,black,124047.0,km
+L100765,Renault,2017,gasoline,manual,1200.0,Rosario,white,69203.0,miles
+L100766,Ford,2013,electric,manual,1400.0,Córdoba,red,115948.0,miles
+L100767,Volkswagen,2016,gasoline,manual,1600.0,Rosario,grey,128411.0,km
+L100768,Audi,2010,gasoline,automatic,1400.0,Mendoza,white,174742.0,km
+L100769,Renault,2010,gasoline,MANUAL,2000.0,Córdoba,grey,202771.0,km
+L100770,Volkswagen,2010,diesel,manual,1600.0,Salta,white,247748.0,km
+L100771,Toyota,2011,gasoline,MANUAL,2500.0,Rosario,silver,152950.0,km
+L100772,Toyota,2009,diesel,automatic,1400.0,Salta,white,204552.0,km
+L100773,Volkswagen,2023,electric,automatic,1400.0,Mendoza,black,39689.0,km
+L100774,Volkswagen,2018,gasoline,manual,1600.0,Córdoba,white,97441.0,km
+L100775,Chevrolet,2014,hybrid,manual,1800.0,Mendoza,black,162887.0,km
+L100776,Toyota,2025,gasoline,manual,1000.0,Buenos Aires,white,23740.0,km
+L100777,Volkswagen,2009,gasoline,automatic,2000.0,Buenos Aires,white,176418.0,km
+L100778,Toyota,2010,electric,Automatic,3000.0,Mendoza,silver,219063.0,km
+L100779,Ford,2012,diesel,manual,1000.0,Mendoza,grey,208763.0,km
+L100780,Volkswagen,2023,diesel,manual,1400.0,Salta,blue,18646.0,miles
+L100781,BMW,2010,hybrid,manual,1200.0,Córdoba,blue,157313.0,km
+L100782,Toyota,2019,gasoline,Manual,1400.0,Córdoba,grey,86894.0,km
+L100783,Toyota,2022,gasoline,automatic,1200.0,Rosario,blue,47349.0,km
+L100784,Fiat,2013,gasoline,automatic,3000.0,Salta,black,95626.0,miles
+L100785,Renault,2024,gasoline,automatic,3000.0,Córdoba,black,24213.0,km
+L100786,Toyota,2010,diesel,manual,3000.0,Rosario,black,167857.0,km
+L100787,Fiat,2017,diesel,AUTOMATIC,1800.0,Rosario,grey,131953.0,km
+L100788,Audi,2011,gasoline,automatic,1400.0,Buenos Aires,black,212588.0,km
+L100789,Chevrolet,2025,gasoline,automatic,1600.0,Córdoba,blue,8282.0,km
+L100790,Audi,2025,gasoline,automatic,1600.0,Córdoba,blue,19935.0,km
+L100791,Chevrolet,2010,gasoline,manual,1400.0,Rosario,blue,132342.0,miles
+L100792,Ford,2018,gasoline,manual,,Salta,grey,111061.0,km
+L100793,Chevrolet,2019,nafta,manual,1800.0,Mendoza,silver,73266.0,km
+L100794,Renault,2025,gasoline,automatic,1800.0,Mendoza,red,7367.0,km
+L100795,Toyota,2014,hybrid,manual,1400.0,Salta,silver,194397.0,km
+L100796,Volkswagen,2012,gasoline,,3000.0,Rosario,blue,137006.0,km
+L100797,Audi,2010,gasoline,manual,1000.0,Rosario,white,180219.0,km
+L100798,Fiat,2010,hybrid,automatic,1200.0,Córdoba,black,193747.0,km
+L100799,Volkswagen,2008,gasoline,manual,1400.0,Buenos Aires,blue,232559.0,km
+L100800,Fiat,2017,diesel,automatic,1400.0,Rosario,white,91542.0,km
+L100801,Fiat,2021,hybrid,manual,1800.0,Buenos Aires,black,57935.0,km
+L100802,Toyota,2009,gasoline,automatic,1600.0,Rosario,blue,153682.0,miles
+L100803,Volkswagen,2025,diesel,automatic,2000.0,Rosario,black,29681.0,km
+L100804,Chevrolet,2016,diesel,manual,1800.0,Rosario,silver,126229.0,km
+L100805,Toyota,2012,gasoline,automatic,1200.0,Mendoza,black,156113.0,km
+L100806,Renault,2017,hybrid,automatic,1800.0,Córdoba,grey,98350.0,km
+L100807,Toyota,2015,diesel,Manual,1600.0,Buenos Aires,white,151011.0,km
+L100808,Ford,2025,gasoline,MANUAL,1800.0,Rosario,silver,4892.0,miles
+L100809,Chevrolet,2019,hybrid,manual,1400.0,Mendoza,red,103801.0,km
+L100810,Ford,2020,diesel,manual,2500.0,Rosario,black,65548.0,km
+L100811,BMW,2016,hybrid,manual,,Salta,red,60586.0,miles
+L100812,Chevrolet,2008,diesel,manual,1800.0,Buenos Aires,red,187769.0,km
+L100813,Fiat,2014,diesel,MANUAL,1200.0,Salta,white,183450.0,km
+L100814,Toyota,2008,gasoline,manual,1400.0,Buenos Aires,red,199211.0,km
+L100815,Volkswagen,2020,hybrid,manual,1000.0,Rosario,red,74048.0,km
+L100816,BMW,2008,gasoline,manual,1000.0,Mendoza,grey,134882.0,miles
+L100817,Fiat,2013,gasoline,automatic,1200.0,Rosario,silver,77219.0,miles
+L100818,Toyota,2017,gasoline,manual,1600.0,Salta,red,113970.0,km
+L100819,Renault,2024,diesel,automatic,1000.0,Buenos Aires,red,31617.0,km
+L100820,Volkswagen,2018,electric,manual,1400.0,Salta,silver,117460.0,km
+L100821,Volkswagen,2017,electric,,2000.0,Salta,blue,98703.0,km
+L100822,Volkswagen,2018,gasoline,automatic,1800.0,Salta,white,86488.0,km
+L100823,Chevrolet,2020,diesel,Manual,1600.0,Córdoba,grey,47842.0,miles
+L100824,Renault,2023,diesel,automatic,1400.0,Salta,silver,46083.0,km
+L100825,BMW,2021,gasoline,manual,1600.0,Salta,black,78923.0,km
+L100826,Audi,2011,hybrid,Manual,2500.0,Mendoza,red,141672.0,km
+L100827,BMW,2021,gasoline,automatic,1000.0,Buenos Aires,white,51948.0,km
+L100828,Chevrolet,2017,gasoline,MANUAL,1800.0,Córdoba,grey,77014.0,miles
+L100829,Toyota,2019,nafta,automatic,1400.0,Córdoba,white,92044.0,km
+L100830,Toyota,2023,gasoline,manual,1800.0,Buenos Aires,white,64792.0,km
+L100831,Toyota,2019,gasoline,manual,1200.0,Córdoba,grey,106477.0,km
+L100832,Renault,2020,gasoline,manual,1000.0,Rosario,grey,50667.0,km
+L100833,Ford,2016,gasoline,manual,1400.0,Buenos Aires,black,160201.0,km
+L100834,Toyota,2014,hybrid,manual,1400.0,Córdoba,black,146263.0,km
+L100835,Audi,2013,gasoline,manual,3000.0,Buenos Aires,grey,160254.0,km
+L100836,Volkswagen,2009,hybrid,AUTOMATIC,1600.0,Salta,red,212814.0,km
+L100837,Toyota,2018,gasoline,manual,2500.0,Rosario,black,81540.0,km
+L100838,Renault,2009,diesel,Manual,,Córdoba,black,254082.0,km
+L100839,Audi,2008,gasoline,manual,1800.0,Rosario,grey,198400.0,km
+L100840,Chevrolet,2025,gasoline,manual,1600.0,Córdoba,black,8303.0,km
+L100841,Audi,2021,gasoline,automatic,1200.0,Rosario,red,71038.0,km
+L100842,Toyota,2010,diesel,manual,1600.0,Rosario,silver,209106.0,km
+L100843,Chevrolet,2019,nafta,manual,1400.0,Rosario,grey,112710.0,km
+L100844,Ford,2008,gasoline,manual,1800.0,Mendoza,blue,188862.0,km
+L100845,Volkswagen,2009,diesel,,1400.0,Buenos Aires,white,216446.0,km
+L100846,Volkswagen,2022,gasoline,automatic,1200.0,Rosario,red,53149.0,km
+L100847,Volkswagen,2010,diesel,manual,1600.0,Córdoba,silver,168479.0,km
+L100848,Chevrolet,2018,diesel,manual,3000.0,Mendoza,black,52227.0,miles
+L100849,Ford,2009,diesel,automatic,1600.0,Mendoza,white,254686.0,km
+L100850,Volkswagen,2016,gasoline,manual,2000.0,Mendoza,black,101214.0,km
+L100851,Volkswagen,2008,nafta,manual,1800.0,Buenos Aires,silver,226114.0,km
+L100852,Fiat,2019,gasoline,automatic,3000.0,Buenos Aires,blue,39139.0,miles
+L100853,Renault,2014,diesel,Manual,2500.0,Córdoba,grey,147518.0,km
+L100854,Toyota,2012,diesel,automatic,1600.0,Buenos Aires,grey,194633.0,km
+L100855,BMW,2015,electric,manual,2000.0,Mendoza,silver,58214.0,miles
+L100856,Fiat,2014,gasoline,automatic,1200.0,Rosario,red,144968.0,km
+L100857,Toyota,2010,gasoline,manual,2500.0,Rosario,red,246301.0,km
+L100858,Volkswagen,2013,gasoline,manual,1600.0,Salta,white,163013.0,km
+L100859,BMW,2020,diesel,manual,1400.0,Buenos Aires,white,85145.0,km
+L100860,BMW,2010,diesel,automatic,,Córdoba,blue,162192.0,km
+L100861,Volkswagen,2018,hybrid,manual,1400.0,Buenos Aires,black,98247.0,km
+L100862,Ford,2020,gasoline,Manual,1000.0,Córdoba,silver,39303.0,miles
+L100863,Audi,2008,hybrid,,2500.0,Buenos Aires,white,245666.0,km
+L100864,Chevrolet,2014,gasoline,manual,1600.0,Salta,red,139371.0,km
+L100865,Fiat,2020,gasoline,manual,1600.0,Mendoza,grey,67115.0,km
+L100866,Volkswagen,2015,gasoline,automatic,2000.0,Buenos Aires,grey,135739.0,km
+L100867,BMW,2024,diesel,manual,1800.0,Mendoza,white,11200.0,km
+L100868,Toyota,2018,diesel,automatic,1800.0,Salta,silver,95549.0,km
+L100869,BMW,2016,gasoline,manual,1400.0,Rosario,red,110634.0,km
+L100870,Chevrolet,2019,gasoline,manual,1600.0,Salta,blue,87190.0,km
+L100871,Renault,2015,diesel,AUTOMATIC,,Mendoza,silver,137470.0,km
+L100872,Volkswagen,2022,nafta,MANUAL,1800.0,Córdoba,white,33311.0,miles
+L100873,Fiat,2011,gasoline,automatic,3000.0,Salta,white,122628.0,miles
+L100874,Volkswagen,2020,gasoline,automatic,1800.0,Córdoba,grey,81688.0,km
+L100875,Volkswagen,2008,gasoline,manual,1400.0,Rosario,silver,116751.0,miles
+L100876,Ford,2013,gasoline,manual,1600.0,Córdoba,grey,97264.0,km
+L100877,Chevrolet,2012,hybrid,manual,1400.0,Salta,silver,194018.0,km
+L100878,Toyota,2009,gasoline,automatic,,Córdoba,black,141412.0,miles
+L100879,Volkswagen,2025,hybrid,manual,1400.0,Mendoza,black,23370.0,km
+L100880,Volkswagen,2018,gasoline,manual,2500.0,Mendoza,red,98116.0,km
+L100881,Audi,2010,diesel,automatic,1000.0,Buenos Aires,silver,228971.0,km
+L100882,Toyota,2011,gasoline,automatic,1600.0,Mendoza,black,161377.0,km
+L100883,Renault,2008,gasoline,manual,1000.0,Buenos Aires,silver,190251.0,km
+L100884,Ford,2015,gasoline,manual,1400.0,Salta,black,199097.0,km
+L100885,Audi,2012,gasoline,manual,1600.0,Salta,silver,159210.0,km
+L100886,Toyota,2023,nafta,manual,2000.0,Rosario,silver,47518.0,km
+L100887,Audi,2009,gasoline,manual,1000.0,Buenos Aires,white,220864.0,km
+L100888,Fiat,2009,gasoline,manual,1200.0,Buenos Aires,blue,231129.0,km
+L100889,Toyota,2018,nafta,manual,1400.0,Rosario,white,101530.0,km
+L100890,Volkswagen,2014,diesel,automatic,3000.0,Buenos Aires,blue,102961.0,miles
+L100891,Ford,2021,hybrid,AUTOMATIC,3000.0,Mendoza,red,83550.0,km
+L100892,Volkswagen,2011,gasoline,MANUAL,1400.0,Córdoba,white,101245.0,miles
+L100893,BMW,2009,electric,manual,1200.0,Buenos Aires,black,147190.0,km
+L100894,Volkswagen,2016,gasoline,manual,2000.0,Mendoza,red,139845.0,km
+L100895,Audi,2021,gasoline,manual,1800.0,Mendoza,silver,33885.0,km
+L100896,Audi,2017,gasoline,manual,1600.0,Córdoba,red,124497.0,km
+L100897,Ford,2013,hybrid,manual,1400.0,Salta,silver,166208.0,km
+L100898,Toyota,2012,nafta,manual,1400.0,Salta,silver,205199.0,km
+L100899,Fiat,2015,gasoline,manual,1400.0,Rosario,white,146241.0,km
+L100900,Ford,2024,gasoline,automatic,1400.0,Mendoza,blue,45010.0,km
+L100901,Ford,2021,gasoline,automatic,1000.0,Salta,silver,63474.0,km
+L100902,Audi,2018,diesel,automatic,1400.0,Buenos Aires,silver,70913.0,km
+L100903,Renault,2025,gasoline,manual,1000.0,Rosario,blue,26278.0,km
+L100904,Ford,2010,gasoline,Automatic,1200.0,Buenos Aires,black,219362.0,km
+L100905,Renault,2012,hybrid,manual,1400.0,Mendoza,grey,179835.0,km
+L100906,Renault,2022,diesel,automatic,1200.0,Rosario,red,65262.0,km
+L100907,Chevrolet,2012,hybrid,Automatic,2000.0,Buenos Aires,grey,178683.0,km
+L100908,Volkswagen,2020,electric,automatic,1400.0,Salta,blue,58379.0,km
+L100909,Renault,2016,gasoline,automatic,1200.0,Rosario,black,109796.0,km
+L100910,Toyota,2014,gasoline,manual,1200.0,Córdoba,red,159150.0,km
+L100911,BMW,2011,diesel,Manual,2000.0,Buenos Aires,silver,242154.0,km
+L100912,Audi,2021,gasoline,automatic,1000.0,Rosario,blue,77150.0,km
+L100913,Toyota,2009,hybrid,,1600.0,Mendoza,grey,132939.0,km
+L100914,Chevrolet,2021,hybrid,manual,2000.0,Mendoza,black,60344.0,km
+L100915,Audi,2009,diesel,manual,2000.0,Salta,blue,164968.0,km
+L100916,BMW,2014,gasoline,manual,1400.0,Mendoza,blue,129882.0,km
+L100917,Chevrolet,2017,hybrid,manual,1000.0,Rosario,red,79538.0,km
+L100918,Ford,2024,diesel,MANUAL,1800.0,Salta,blue,32481.0,km
+L100919,Audi,2016,hybrid,manual,1600.0,Salta,grey,128682.0,km
+L100920,Volkswagen,2019,diesel,automatic,1600.0,Buenos Aires,grey,89732.0,km
+L100921,BMW,2013,gasoline,manual,1600.0,Rosario,blue,170575.0,km
+L100922,Chevrolet,2009,gasoline,automatic,1200.0,Salta,red,205501.0,km
+L100923,Renault,2011,diesel,manual,1400.0,Mendoza,silver,120288.0,miles
+L100924,Audi,2011,gasoline,AUTOMATIC,1600.0,Mendoza,blue,228989.0,km
+L100925,Audi,2017,hybrid,manual,1400.0,Salta,red,115274.0,km
+L100926,Volkswagen,2008,hybrid,,2000.0,Salta,red,200938.0,km
+L100927,Volkswagen,2008,hybrid,manual,1600.0,Mendoza,red,158171.0,miles
+L100928,BMW,2019,nafta,manual,2000.0,Rosario,black,74232.0,km
+L100929,Volkswagen,2008,gasoline,manual,1200.0,Buenos Aires,silver,275971.0,km
+L100930,BMW,2010,hybrid,manual,1000.0,Buenos Aires,silver,129198.0,miles
+L100931,Ford,2010,gasoline,manual,1400.0,Mendoza,grey,140044.0,miles
+L100932,Ford,2016,gasoline,manual,1200.0,Buenos Aires,red,74774.0,miles
+L100933,Volkswagen,2017,gasoline,manual,1200.0,Buenos Aires,silver,147206.0,km
+L100934,Ford,2016,hybrid,Automatic,1200.0,Córdoba,silver,122480.0,km
+L100935,Volkswagen,2014,diesel,automatic,1400.0,Buenos Aires,blue,134420.0,km
+L100936,Ford,2009,gasoline,Manual,1000.0,Salta,grey,207441.0,km
+L100937,Toyota,2017,gasoline,automatic,2000.0,Rosario,white,111567.0,km
+L100938,Volkswagen,2025,diesel,Manual,1600.0,Mendoza,black,18965.0,km
+L100939,Toyota,2019,gasoline,automatic,1400.0,Buenos Aires,blue,101805.0,km
+L100940,Ford,2024,gasoline,automatic,1600.0,Salta,blue,39848.0,km
+L100941,Volkswagen,2018,gasoline,manual,,Buenos Aires,blue,111808.0,km
+L100942,Audi,2025,hybrid,manual,1600.0,Salta,black,20443.0,km
+L100943,Volkswagen,2013,diesel,automatic,1200.0,Rosario,red,157478.0,km
+L100944,Renault,2014,gasoline,automatic,,Buenos Aires,white,75404.0,miles
+L100945,Audi,2008,gasoline,manual,1000.0,Salta,white,218246.0,km
+L100946,Volkswagen,2013,gasoline,manual,1400.0,Córdoba,black,187114.0,km
+L100947,Ford,2016,gasoline,manual,1400.0,Córdoba,white,133910.0,km
+L100948,Renault,2010,diesel,MANUAL,1400.0,Buenos Aires,red,223623.0,km
+L100949,BMW,2010,diesel,manual,1200.0,Salta,grey,212056.0,km
+L100950,Ford,2025,gasoline,Manual,2000.0,Rosario,white,29173.0,km
+L100951,Chevrolet,2016,gasoline,manual,2000.0,Buenos Aires,white,100344.0,km
+L100952,Volkswagen,2021,gasoline,automatic,,Buenos Aires,white,47003.0,km
+L100953,Renault,2019,gasoline,manual,1800.0,Córdoba,white,46383.0,km
+L100954,Fiat,2010,hybrid,manual,2000.0,Buenos Aires,white,164602.0,km
+L100955,Volkswagen,2011,gasoline,automatic,1600.0,Mendoza,black,184597.0,km
+L100956,Toyota,2008,hybrid,manual,,Rosario,silver,185059.0,km
+L100957,Ford,2019,electric,Manual,1000.0,Rosario,blue,126145.0,km
+L100958,Toyota,2022,nafta,manual,2000.0,Mendoza,red,31897.0,miles
+L100959,BMW,2025,gasoline,automatic,1800.0,Rosario,grey,11994.0,km
+L100960,Fiat,2012,diesel,Manual,2000.0,Rosario,grey,195242.0,km
+L100961,Audi,2023,gasoline,manual,1800.0,Salta,red,50852.0,km
+L100962,Ford,2014,gasoline,AUTOMATIC,1600.0,Mendoza,grey,181339.0,km
+L100963,Renault,2016,electric,automatic,1600.0,Buenos Aires,black,123940.0,km
+L100964,Renault,2022,gasoline,automatic,1200.0,Buenos Aires,white,32689.0,miles
+L100965,Toyota,2012,hybrid,AUTOMATIC,1600.0,Córdoba,grey,190141.0,km
+L100966,Renault,2022,gasoline,manual,1800.0,Rosario,black,73146.0,km
+L100967,Renault,2014,gasoline,AUTOMATIC,1200.0,Córdoba,black,105014.0,miles
+L100968,Volkswagen,2017,gasoline,manual,1200.0,Buenos Aires,blue,121784.0,km
+L100969,Ford,2013,gasoline,manual,1400.0,Córdoba,blue,143326.0,km
+L100970,Ford,2023,gasoline,manual,2500.0,Rosario,red,26026.0,km
+L100971,Toyota,2012,hybrid,manual,1600.0,Rosario,blue,198477.0,km
+L100972,Renault,2016,diesel,manual,1200.0,Buenos Aires,grey,118800.0,km
+L100973,Toyota,2018,gasoline,manual,1800.0,Córdoba,black,106987.0,km
+L100974,Toyota,2015,hybrid,manual,1200.0,Mendoza,silver,69506.0,miles
+L100975,Audi,2012,gasoline,Automatic,1800.0,Salta,silver,209186.0,km
+L100976,BMW,2019,gasoline,manual,3000.0,Buenos Aires,red,111793.0,km
+L100977,Volkswagen,2022,gasoline,automatic,1200.0,Rosario,black,57193.0,km
+L100978,Volkswagen,2017,electric,manual,1800.0,Rosario,black,133992.0,km
+L100979,Ford,2014,diesel,manual,1600.0,Buenos Aires,silver,127175.0,km
+L100980,Audi,2012,gasoline,automatic,2000.0,Córdoba,red,148025.0,km
+L100981,Ford,2012,hybrid,automatic,1800.0,Salta,silver,135123.0,km
+L100982,BMW,2021,gasoline,automatic,1600.0,Mendoza,silver,86364.0,km
+L100983,Chevrolet,2022,hybrid,automatic,1400.0,Córdoba,red,56842.0,km
+L100984,Toyota,2020,hybrid,manual,3000.0,Mendoza,blue,83869.0,km
+L100985,Toyota,2009,gasoline,manual,1600.0,Salta,silver,226876.0,km
+L100986,Volkswagen,2010,gasoline,automatic,1200.0,Rosario,grey,198977.0,km
+L100987,Toyota,2012,gasoline,automatic,1600.0,Buenos Aires,silver,153666.0,km
+L100988,Audi,2018,gasoline,automatic,1000.0,Córdoba,white,46407.0,km
+L100989,Audi,2016,gasoline,manual,1600.0,Salta,silver,125072.0,km
+L100990,Renault,2017,hybrid,Manual,1000.0,Rosario,grey,125505.0,km
+L100991,Ford,2021,gasoline,manual,1600.0,Salta,silver,63919.0,km
+L100992,Ford,2017,nafta,automatic,1400.0,Rosario,white,87807.0,km
+L100993,Toyota,2018,gasoline,manual,2000.0,Córdoba,grey,90636.0,km
+L100994,Renault,2018,gasoline,MANUAL,1400.0,Salta,black,119795.0,km
+L100995,Toyota,2024,nafta,MANUAL,1400.0,Córdoba,silver,31909.0,km
+L100996,Ford,2020,gasoline,AUTOMATIC,1400.0,Rosario,white,56432.0,km
+L100997,Fiat,2022,diesel,automatic,1000.0,Córdoba,black,55432.0,km
+L100998,BMW,2016,diesel,manual,3000.0,Salta,white,165918.0,km
+L100999,Fiat,2012,gasoline,automatic,1200.0,Córdoba,blue,154456.0,km
+L101000,Audi,2017,gasoline,automatic,2500.0,Buenos Aires,white,85607.0,km
+L101001,Chevrolet,2022,gasoline,manual,1400.0,Salta,grey,54379.0,km
+L101002,Volkswagen,2024,gasoline,manual,1000.0,Rosario,black,27052.0,km
+L101003,Ford,2008,diesel,automatic,1600.0,Buenos Aires,white,257473.0,km
+L101004,Toyota,2008,hybrid,automatic,1200.0,Salta,black,201349.0,km
+L101005,Chevrolet,2015,gasoline,automatic,2000.0,Buenos Aires,white,109121.0,km
+L101006,Renault,2021,nafta,AUTOMATIC,1600.0,Rosario,silver,69074.0,km
+L101007,BMW,2024,gasoline,AUTOMATIC,1400.0,Salta,grey,17782.0,km
+L101008,Volkswagen,2009,gasoline,AUTOMATIC,1200.0,Buenos Aires,red,223622.0,km
+L101009,BMW,2009,diesel,automatic,1400.0,Mendoza,red,168382.0,km
+L101010,Chevrolet,2008,gasoline,Manual,1600.0,Buenos Aires,blue,203701.0,km
+L101011,Renault,2017,gasoline,,1400.0,Rosario,black,97301.0,km
+L101012,Chevrolet,2023,electric,manual,1000.0,Mendoza,silver,43389.0,km
+L101013,Chevrolet,2020,gasoline,Manual,1400.0,Buenos Aires,silver,107949.0,km
+L101014,Toyota,2010,diesel,manual,1800.0,Buenos Aires,grey,234515.0,km
+L101015,Chevrolet,2025,gasoline,manual,1200.0,Córdoba,grey,2581.0,miles
+L101016,Toyota,2009,hybrid,automatic,1400.0,Rosario,blue,258676.0,km
+L101017,Renault,2017,gasoline,Automatic,1600.0,Rosario,red,45187.0,miles
+L101018,Volkswagen,2022,gasoline,manual,1400.0,Rosario,blue,72506.0,km
+L101019,Chevrolet,2017,gasoline,manual,1800.0,Buenos Aires,grey,59530.0,miles
+L101020,Ford,2013,electric,automatic,1400.0,Rosario,red,157946.0,km
+L101021,Fiat,2010,gasoline,automatic,2500.0,Mendoza,grey,203680.0,km
+L101022,Chevrolet,2016,diesel,Automatic,,Buenos Aires,white,126891.0,km
+L101023,Ford,2019,gasoline,AUTOMATIC,1600.0,Mendoza,red,49353.0,km
+L101024,Renault,2018,diesel,manual,2000.0,Buenos Aires,black,137499.0,km
+L101025,Volkswagen,2017,gasoline,manual,1800.0,Córdoba,black,130220.0,km
+L101026,Chevrolet,2017,hybrid,manual,1400.0,Córdoba,red,123769.0,km
+L101027,BMW,2011,diesel,automatic,2000.0,Córdoba,white,142575.0,km
+L101028,Renault,2021,gasoline,Manual,2500.0,Buenos Aires,white,61711.0,km
+L101029,Toyota,2013,hybrid,manual,2500.0,Salta,white,133243.0,km
+L101030,Audi,2015,gasoline,automatic,1800.0,Mendoza,white,149436.0,km
+L101031,Renault,2021,gasoline,manual,1400.0,Buenos Aires,black,58771.0,km
+L101032,Toyota,2022,diesel,automatic,1600.0,Córdoba,grey,82118.0,km
+L101033,Chevrolet,2009,hybrid,manual,1800.0,Rosario,blue,198912.0,km
+L101034,Volkswagen,2013,electric,manual,2500.0,Rosario,silver,167445.0,km
+L101035,Toyota,2015,gasoline,Manual,1200.0,Mendoza,black,147410.0,km
+L101036,Ford,2010,diesel,automatic,1400.0,Mendoza,silver,179770.0,km
+L101037,Renault,2014,diesel,automatic,1800.0,Mendoza,white,153262.0,km
+L101038,Ford,2021,gasoline,automatic,1800.0,Mendoza,blue,51843.0,km
+L101039,Toyota,2021,electric,manual,1400.0,Mendoza,blue,58810.0,km
+L101040,Toyota,2025,gasoline,MANUAL,2500.0,Salta,blue,2947.0,km
+L101041,Volkswagen,2025,hybrid,automatic,1000.0,Rosario,blue,14536.0,km
+L101042,Chevrolet,2023,gasoline,MANUAL,2000.0,Mendoza,black,32021.0,km
+L101043,Ford,2023,gasoline,automatic,1200.0,Buenos Aires,white,51897.0,km
+L101044,Volkswagen,2009,gasoline,manual,1400.0,Salta,blue,119305.0,miles
+L101045,Chevrolet,2010,gasoline,automatic,1600.0,Mendoza,blue,173682.0,km
+L101046,Fiat,2016,gasoline,manual,1600.0,Rosario,silver,127636.0,km
+L101047,Audi,2016,gasoline,manual,1800.0,Mendoza,blue,87874.0,km
+L101048,BMW,2019,diesel,automatic,1600.0,Córdoba,grey,86613.0,km
+L101049,Audi,2009,hybrid,automatic,1200.0,Buenos Aires,black,156141.0,km
+L101050,Renault,2018,diesel,automatic,1400.0,Mendoza,grey,89557.0,km
+L101051,Chevrolet,2010,hybrid,automatic,1600.0,Córdoba,blue,204353.0,km
+L101052,Audi,2022,diesel,manual,,Rosario,blue,44086.0,km
+L101053,Toyota,2024,hybrid,manual,1200.0,Mendoza,silver,22914.0,km
+L101054,Volkswagen,2025,nafta,manual,1200.0,Córdoba,grey,23151.0,km
+L101055,Chevrolet,2013,diesel,automatic,1000.0,Mendoza,white,147133.0,km
+L101056,Ford,2019,gasoline,automatic,2500.0,Córdoba,red,104447.0,km
+L101057,Toyota,2014,diesel,manual,1400.0,Salta,red,167423.0,km
+L101058,Renault,2023,gasoline,manual,1800.0,Salta,grey,46379.0,km
+L101059,Toyota,2018,diesel,,1400.0,Salta,grey,77411.0,km
+L101060,Toyota,2014,diesel,manual,2500.0,Salta,red,167999.0,km
+L101061,Toyota,2022,diesel,manual,2500.0,Buenos Aires,blue,36286.0,km
+L101062,Chevrolet,2017,gasoline,manual,1400.0,Rosario,black,88604.0,km
+L101063,Toyota,2018,gasoline,manual,1800.0,Córdoba,black,90361.0,km
+L101064,Audi,2024,diesel,,1400.0,Córdoba,grey,15553.0,km
+L101065,Renault,2019,gasoline,automatic,1000.0,Salta,red,105742.0,km
+L101066,Volkswagen,2011,gasoline,manual,1400.0,Buenos Aires,grey,94536.0,miles
+L101067,Toyota,2012,gasoline,manual,1600.0,Salta,grey,170952.0,km
+L101068,Volkswagen,2018,gasoline,Automatic,1200.0,Salta,silver,112803.0,km
+L101069,Ford,2021,gasoline,manual,1200.0,Rosario,blue,78319.0,km
+L101070,BMW,2019,gasoline,manual,1000.0,Salta,red,106850.0,km
+L101071,Renault,2008,gasoline,manual,1800.0,Rosario,red,221777.0,km
+L101072,Toyota,2013,diesel,automatic,1200.0,Rosario,black,189063.0,km
+L101073,Audi,2010,hybrid,manual,1400.0,Córdoba,silver,238610.0,km
+L101074,Audi,2021,diesel,automatic,2000.0,Rosario,blue,74229.0,km
+L101075,Audi,2018,hybrid,manual,1400.0,Rosario,black,124070.0,km
+L101076,Ford,2021,gasoline,automatic,1000.0,Rosario,blue,73178.0,km
+L101077,Renault,2025,diesel,automatic,1600.0,Salta,blue,17601.0,km
+L101078,Fiat,2018,gasoline,Manual,2500.0,Mendoza,black,109685.0,km
+L101079,Toyota,2014,gasoline,manual,1400.0,Salta,red,129363.0,km
+L101080,Volkswagen,2011,gasoline,manual,1400.0,Salta,black,195804.0,km
+L101081,Ford,2013,diesel,automatic,1600.0,Mendoza,white,125086.0,km
+L101082,BMW,2012,diesel,automatic,1600.0,Salta,grey,194809.0,km
+L101083,Toyota,2011,electric,manual,1200.0,Salta,blue,188359.0,km
+L101084,Audi,2017,hybrid,manual,1200.0,Buenos Aires,grey,84222.0,miles
+L101085,Toyota,2017,gasoline,automatic,2000.0,Salta,silver,95866.0,km
+L101086,Audi,2012,electric,MANUAL,,Salta,silver,163302.0,km
+L101087,Volkswagen,2023,gasoline,automatic,1600.0,Rosario,white,32923.0,km
+L101088,Toyota,2020,diesel,manual,1400.0,Mendoza,blue,58683.0,km
+L101089,Ford,2012,gasoline,manual,1200.0,Rosario,black,162232.0,km
+L101090,Audi,2021,hybrid,manual,1000.0,Córdoba,grey,65396.0,km
+L101091,Toyota,2015,nafta,manual,1000.0,Salta,red,103003.0,km
+L101092,Chevrolet,2009,diesel,manual,2500.0,Rosario,blue,211614.0,km
+L101093,BMW,2014,diesel,automatic,2000.0,Rosario,white,122153.0,km
+L101094,Ford,2019,gasoline,manual,1400.0,Rosario,silver,81231.0,km
+L101095,Renault,2009,gasoline,manual,1800.0,Buenos Aires,grey,198631.0,km
+L101096,Renault,2020,gasoline,manual,1600.0,Córdoba,silver,86254.0,km
+L101097,Audi,2008,gasoline,automatic,1600.0,Salta,blue,206467.0,km
+L101098,Toyota,2019,diesel,manual,1800.0,Córdoba,blue,110563.0,km
+L101099,Volkswagen,2015,diesel,manual,1400.0,Rosario,blue,57472.0,miles
+L101100,Fiat,2022,diesel,automatic,1400.0,Rosario,black,60432.0,km
+L101101,Toyota,2021,hybrid,automatic,1600.0,Buenos Aires,black,74669.0,km
+L101102,Ford,2020,gasoline,manual,1200.0,Salta,white,86015.0,km
+L101103,Chevrolet,2016,gasoline,manual,1800.0,Córdoba,white,147325.0,km
+L101104,Fiat,2010,diesel,manual,2000.0,Mendoza,blue,130628.0,km
+L101105,Renault,2021,hybrid,Manual,1600.0,Mendoza,white,73411.0,km
+L101106,BMW,2012,gasoline,manual,1800.0,Rosario,red,112978.0,miles
+L101107,Ford,2018,hybrid,automatic,1400.0,Salta,silver,101851.0,km
+L101108,Audi,2020,hybrid,automatic,1400.0,Córdoba,white,73459.0,km
+L101109,Ford,2020,hybrid,manual,2000.0,Rosario,silver,40563.0,km
+L101110,Audi,2022,diesel,manual,1400.0,Córdoba,black,59431.0,km
+L101111,Chevrolet,2015,hybrid,manual,2500.0,Córdoba,red,173193.0,km
+L101112,Chevrolet,2012,diesel,automatic,2000.0,Mendoza,silver,174521.0,km
+L101113,Renault,2019,gasoline,manual,1400.0,Mendoza,black,78204.0,km
+L101114,Chevrolet,2015,gasoline,manual,1200.0,Buenos Aires,red,102890.0,km
+L101115,Ford,2013,gasoline,automatic,1800.0,Córdoba,red,189664.0,km
+L101116,Chevrolet,2010,diesel,manual,1200.0,Salta,grey,186960.0,km
+L101117,Toyota,2008,gasoline,manual,1600.0,Salta,blue,203362.0,km
+L101118,Fiat,2020,electric,manual,1200.0,Rosario,grey,58560.0,km
+L101119,Audi,2013,gasoline,manual,2000.0,Salta,blue,136869.0,km
+L101120,Audi,2022,diesel,manual,1600.0,Córdoba,silver,52980.0,km
+L101121,Ford,2008,gasoline,automatic,1200.0,Mendoza,white,202913.0,km
+L101122,BMW,2008,gasoline,manual,1200.0,Rosario,red,231731.0,km
+L101123,Renault,2009,gasoline,automatic,1400.0,Córdoba,blue,184489.0,km
+L101124,Volkswagen,2022,electric,automatic,1800.0,Mendoza,silver,24474.0,km
+L101125,Volkswagen,2014,gasoline,automatic,1400.0,Mendoza,black,145747.0,km
+L101126,Volkswagen,2013,gasoline,automatic,2500.0,Rosario,red,187359.0,km
+L101127,Volkswagen,2021,gasoline,manual,1400.0,Mendoza,red,72177.0,km
+L101128,Audi,2014,electric,manual,1600.0,Buenos Aires,black,85770.0,miles
+L101129,Chevrolet,2015,diesel,automatic,1600.0,Salta,silver,127274.0,km
+L101130,Toyota,2015,gasoline,automatic,1400.0,Córdoba,red,136647.0,km
+L101131,Chevrolet,2021,gasoline,,2000.0,Rosario,grey,36851.0,km
+L101132,Renault,2024,diesel,,1600.0,Buenos Aires,grey,8134.0,km
+L101133,Audi,2021,gasoline,manual,1600.0,Córdoba,blue,75234.0,km
+L101134,Ford,2014,electric,automatic,1400.0,Buenos Aires,grey,73413.0,miles
+L101135,Chevrolet,2008,diesel,manual,1800.0,Buenos Aires,white,224341.0,km
+L101136,Renault,2022,gasoline,manual,1600.0,Rosario,blue,54358.0,km
+L101137,Ford,2021,diesel,automatic,1600.0,Buenos Aires,white,84130.0,km
+L101138,Toyota,2025,hybrid,manual,1200.0,Córdoba,red,23777.0,km
+L101139,BMW,2009,hybrid,manual,1200.0,Rosario,red,192374.0,km
+L101140,Toyota,2020,gasoline,manual,2000.0,Córdoba,silver,30519.0,km
+L101141,Ford,2013,hybrid,manual,,Salta,grey,142842.0,km
+L101142,Volkswagen,2020,gasoline,MANUAL,1400.0,Buenos Aires,grey,44936.0,miles
+L101143,Ford,2022,gasoline,automatic,1600.0,Rosario,black,45393.0,km
+L101144,Renault,2020,gasoline,automatic,1600.0,Córdoba,white,93625.0,km
+L101145,Toyota,2025,gasoline,manual,1000.0,Mendoza,silver,4666.0,km
+L101146,Chevrolet,2018,electric,automatic,2000.0,Córdoba,silver,98822.0,km
+L101147,Renault,2018,diesel,manual,1200.0,Mendoza,white,127155.0,km
+L101148,Fiat,2008,electric,automatic,1800.0,Rosario,silver,199264.0,km
+L101149,Audi,2020,diesel,manual,1000.0,Rosario,blue,74569.0,km
+L101150,Toyota,2014,gasoline,manual,3000.0,Salta,white,143156.0,km
+L101151,Volkswagen,2018,gasoline,manual,1600.0,Rosario,silver,106547.0,km
+L101152,Toyota,2014,gasoline,manual,1600.0,Buenos Aires,red,178877.0,km
+L101153,Ford,2019,gasoline,automatic,1400.0,Córdoba,white,69070.0,km
+L101154,Renault,2011,gasoline,manual,2000.0,Mendoza,black,194849.0,km
+L101155,Chevrolet,2021,gasoline,MANUAL,1400.0,Mendoza,grey,75440.0,km
+L101156,Toyota,2020,diesel,automatic,1800.0,Córdoba,blue,74409.0,km
+L101157,Chevrolet,2021,gasoline,automatic,3000.0,Salta,blue,66456.0,km
+L101158,Chevrolet,2011,gasoline,manual,1600.0,Mendoza,white,131383.0,miles
+L101159,Volkswagen,2009,gasoline,automatic,2000.0,Mendoza,grey,178385.0,miles
+L101160,BMW,2011,diesel,automatic,2500.0,Buenos Aires,white,200820.0,km
+L101161,Volkswagen,2009,gasoline,automatic,,Buenos Aires,grey,210508.0,km
+L101162,Audi,2009,diesel,manual,1200.0,Rosario,grey,202694.0,km
+L101163,Audi,2020,gasoline,manual,1800.0,Córdoba,grey,118247.0,km
+L101164,Volkswagen,2014,electric,manual,1200.0,Buenos Aires,silver,173031.0,km
+L101165,Audi,2021,electric,automatic,1600.0,Córdoba,black,47892.0,km
+L101166,Chevrolet,2015,gasoline,manual,3000.0,Buenos Aires,black,188358.0,km
+L101167,Renault,2021,diesel,manual,2000.0,Córdoba,grey,55816.0,km
+L101168,Renault,2024,gasoline,MANUAL,2000.0,Mendoza,black,38727.0,km
+L101169,Chevrolet,2011,gasoline,manual,1600.0,Buenos Aires,red,159310.0,km
+L101170,Audi,2009,gasoline,manual,,Buenos Aires,red,210094.0,km
+L101171,BMW,2020,diesel,automatic,2000.0,Rosario,red,54893.0,km
+L101172,Audi,2021,hybrid,manual,1400.0,Rosario,blue,81066.0,km
+L101173,Volkswagen,2019,electric,manual,1400.0,Buenos Aires,silver,91344.0,km
+L101174,Toyota,2012,gasoline,automatic,1800.0,Córdoba,black,166268.0,km
+L101175,Toyota,2020,gasoline,automatic,2000.0,Salta,red,59566.0,miles
+L101176,Volkswagen,2023,diesel,manual,1600.0,Salta,grey,34930.0,km
+L101177,Toyota,2025,hybrid,manual,1600.0,Rosario,grey,21396.0,km
+L101178,Renault,2015,diesel,automatic,1400.0,Buenos Aires,blue,151291.0,km
+L101179,Toyota,2016,hybrid,Manual,,Rosario,blue,118033.0,km
+L101180,Ford,2019,gasoline,AUTOMATIC,,Salta,black,107905.0,km
+L101181,Ford,2022,gasoline,automatic,2500.0,Buenos Aires,silver,29236.0,miles
+L101182,Audi,2019,gasoline,manual,1600.0,Buenos Aires,white,82233.0,km
+L101183,Volkswagen,2016,hybrid,automatic,2000.0,Buenos Aires,silver,107403.0,km
+L101184,Toyota,2022,gasoline,manual,1200.0,Salta,black,49882.0,km
+L101185,Chevrolet,2015,diesel,automatic,1800.0,Buenos Aires,grey,152325.0,km
+L101186,Audi,2023,gasoline,manual,1600.0,Rosario,red,39922.0,km
+L101187,Fiat,2012,gasoline,Manual,1200.0,Córdoba,red,179172.0,km
+L101188,Toyota,2018,gasoline,manual,2500.0,Córdoba,red,105343.0,km
+L101189,BMW,2010,gasoline,manual,1600.0,Rosario,grey,211797.0,km
+L101190,Ford,2017,gasoline,manual,3000.0,Córdoba,grey,105579.0,km
+L101191,BMW,2008,gasoline,automatic,2000.0,Rosario,grey,244136.0,km
+L101192,BMW,2014,gasoline,manual,2000.0,Córdoba,black,173336.0,km
+L101193,Fiat,2008,gasoline,MANUAL,1600.0,Rosario,blue,191511.0,km
+L101194,Toyota,2015,gasoline,manual,1600.0,Rosario,blue,162625.0,km
+L101195,Volkswagen,2018,gasoline,automatic,1200.0,Córdoba,silver,95273.0,km
+L101196,Toyota,2024,electric,AUTOMATIC,2500.0,Mendoza,blue,12873.0,km
+L101197,Chevrolet,2024,hybrid,manual,1600.0,Rosario,red,29062.0,km
+L101198,Toyota,2013,diesel,automatic,2000.0,Rosario,white,168911.0,km
+L101199,Volkswagen,2012,diesel,manual,,Rosario,black,186978.0,km
+L101200,Chevrolet,2018,hybrid,manual,1400.0,Rosario,red,112258.0,km
+L101201,BMW,2014,electric,automatic,3000.0,Salta,blue,153610.0,km
+L101202,Volkswagen,2014,hybrid,manual,1600.0,Córdoba,grey,113627.0,miles
+L101203,Toyota,2011,hybrid,,1000.0,Salta,silver,155629.0,km
+L101204,BMW,2022,gasoline,manual,2500.0,Mendoza,red,56061.0,km
+L101205,Ford,2019,diesel,manual,1600.0,Córdoba,red,53765.0,km
+L101206,Volkswagen,2014,gasoline,manual,1600.0,Buenos Aires,blue,112093.0,miles
+L101207,Toyota,2014,gasoline,manual,1600.0,Córdoba,blue,190053.0,km
+L101208,Ford,2011,diesel,manual,1600.0,Córdoba,grey,152775.0,km
+L101209,Audi,2017,diesel,manual,1600.0,Salta,blue,84771.0,km
+L101210,Chevrolet,2015,gasoline,manual,1400.0,Córdoba,blue,152311.0,km
+L101211,Fiat,2025,gasoline,automatic,1200.0,Salta,grey,6469.0,km
+L101212,Renault,2017,gasoline,automatic,1200.0,Buenos Aires,grey,70360.0,miles
+L101213,Toyota,2021,diesel,manual,1000.0,Mendoza,white,92237.0,km
+L101214,Ford,2011,gasoline,manual,1600.0,Córdoba,red,198714.0,km
+L101215,Audi,2023,gasoline,manual,1400.0,Rosario,grey,63545.0,km
+L101216,Toyota,2009,hybrid,manual,2000.0,Buenos Aires,grey,200139.0,km
+L101217,Fiat,2013,gasoline,automatic,2000.0,Salta,black,159146.0,km
+L101218,Volkswagen,2013,diesel,Manual,2000.0,Córdoba,blue,190295.0,km
+L101219,Chevrolet,2025,gasoline,manual,2500.0,Córdoba,red,833.0,km
+L101220,Toyota,2009,hybrid,automatic,2500.0,Buenos Aires,grey,230338.0,km
+L101221,Toyota,2021,gasoline,automatic,1200.0,Salta,blue,62368.0,km
+L101222,Renault,2022,diesel,manual,1600.0,Buenos Aires,silver,66601.0,km
+L101223,Ford,2020,gasoline,Manual,1000.0,Mendoza,black,60196.0,km
+L101224,Chevrolet,2014,gasoline,automatic,2000.0,Salta,red,153491.0,km
+L101225,Audi,2011,diesel,manual,1800.0,Buenos Aires,silver,124318.0,km
+L101226,Toyota,2020,diesel,automatic,1200.0,Rosario,silver,92190.0,km
+L101227,Ford,2021,hybrid,manual,1400.0,Mendoza,white,49142.0,miles
+L101228,Toyota,2023,gasoline,manual,1200.0,Mendoza,silver,34691.0,km
+L101229,Volkswagen,2008,gasoline,manual,1800.0,Córdoba,silver,236516.0,km
+L101230,Ford,2017,diesel,automatic,2000.0,Mendoza,red,106233.0,km
+L101231,Renault,2012,gasoline,automatic,1200.0,Salta,grey,173992.0,km
+L101232,Volkswagen,2023,gasoline,manual,1200.0,Córdoba,grey,51820.0,km
+L101233,Renault,2018,gasoline,manual,1400.0,Mendoza,silver,81161.0,km
+L101234,BMW,2017,gasoline,manual,1200.0,Buenos Aires,red,63257.0,miles
+L101235,BMW,2022,gasoline,manual,1400.0,Salta,silver,73048.0,km
+L101236,Toyota,2009,diesel,manual,2000.0,Salta,blue,200654.0,km
+L101237,Ford,2009,gasoline,manual,1000.0,Córdoba,blue,191891.0,km
+L101238,Renault,2017,electric,automatic,1600.0,Córdoba,blue,110570.0,km
+L101239,Volkswagen,2015,diesel,automatic,3000.0,Córdoba,blue,102820.0,km
+L101240,Toyota,2014,gasoline,manual,2000.0,Mendoza,grey,136207.0,km
+L101241,Chevrolet,2024,gasoline,automatic,1200.0,Mendoza,silver,10796.0,km
+L101242,Chevrolet,2014,gasoline,manual,3000.0,Córdoba,black,141832.0,km
+L101243,Volkswagen,2011,hybrid,automatic,1200.0,Mendoza,silver,207290.0,km
+L101244,Toyota,2016,diesel,Automatic,1000.0,Rosario,white,182607.0,km
+L101245,Fiat,2019,gasoline,manual,1000.0,Rosario,white,112988.0,km
+L101246,Toyota,2023,diesel,automatic,2500.0,Buenos Aires,blue,23560.0,km
+L101247,Toyota,2008,gasoline,manual,1800.0,Salta,grey,228733.0,km
+L101248,Renault,2021,gasoline,manual,1600.0,Buenos Aires,black,59534.0,km
+L101249,Volkswagen,2023,diesel,automatic,1400.0,Rosario,blue,49260.0,km
+L101250,Audi,2021,nafta,automatic,1000.0,Córdoba,blue,67597.0,km
+L101251,Ford,2010,gasoline,automatic,1200.0,Buenos Aires,blue,185828.0,km
+L101252,Toyota,2011,hybrid,manual,1200.0,Rosario,black,192300.0,km
+L101253,Ford,2015,gasoline,MANUAL,1200.0,Córdoba,silver,130541.0,km
+L101254,BMW,2021,gasoline,manual,1600.0,Córdoba,grey,44966.0,miles
+L101255,Fiat,2018,gasoline,Automatic,1600.0,Rosario,blue,106063.0,km
+L101256,Toyota,2021,gasoline,,3000.0,Córdoba,blue,67624.0,km
+L101257,Toyota,2011,diesel,automatic,2500.0,Buenos Aires,grey,131028.0,km
+L101258,Audi,2011,diesel,manual,1000.0,Rosario,grey,201891.0,km
+L101259,Renault,2025,gasoline,automatic,1800.0,Rosario,red,11335.0,km
+L101260,Volkswagen,2025,gasoline,manual,2500.0,Rosario,blue,7080.0,km
+L101261,Toyota,2021,gasoline,manual,2000.0,Rosario,white,95212.0,km
+L101262,Ford,2014,gasoline,automatic,1200.0,Salta,silver,178827.0,km
+L101263,Toyota,2009,diesel,automatic,1000.0,Rosario,black,194198.0,km
+L101264,BMW,2023,gasoline,automatic,1000.0,Salta,black,42719.0,km
+L101265,Audi,2021,diesel,manual,2500.0,Córdoba,red,68100.0,km
+L101266,Renault,2016,gasoline,automatic,2500.0,Mendoza,white,100897.0,km
+L101267,Chevrolet,2022,gasoline,manual,2000.0,Córdoba,black,44602.0,km
+L101268,Toyota,2016,gasoline,manual,3000.0,Mendoza,blue,120026.0,km
+L101269,Ford,2025,gasoline,AUTOMATIC,1400.0,Rosario,silver,27614.0,km
+L101270,Renault,2020,diesel,manual,1400.0,Córdoba,grey,40457.0,miles
+L101271,Fiat,2013,gasoline,manual,1200.0,Salta,blue,94856.0,miles
+L101272,Renault,2021,diesel,manual,1400.0,Córdoba,silver,84278.0,km
+L101273,Toyota,2022,gasoline,manual,2000.0,Buenos Aires,blue,32660.0,km
+L101274,Audi,2012,gasoline,automatic,3000.0,Mendoza,black,221217.0,km
+L101275,Ford,2011,diesel,automatic,2500.0,Córdoba,grey,231355.0,km
+L101276,Fiat,2020,gasoline,automatic,1200.0,Salta,red,54254.0,km
+L101277,BMW,2025,gasoline,MANUAL,3000.0,Mendoza,grey,27434.0,km
+L101278,Toyota,2010,diesel,MANUAL,1200.0,Buenos Aires,red,103433.0,miles
+L101279,Volkswagen,2021,diesel,automatic,1800.0,Buenos Aires,silver,61798.0,km
+L101280,Renault,2012,diesel,manual,1200.0,Córdoba,black,194220.0,km
+L101281,Audi,2013,gasoline,AUTOMATIC,1400.0,Buenos Aires,red,139555.0,km
+L101282,Fiat,2014,gasoline,automatic,1400.0,Mendoza,blue,148414.0,km
+L101283,Volkswagen,2018,gasoline,manual,1400.0,Córdoba,blue,99395.0,km
+L101284,Fiat,2008,gasoline,manual,1000.0,Rosario,silver,115081.0,miles
+L101285,Renault,2017,gasoline,manual,3000.0,Mendoza,white,95996.0,km
+L101286,Toyota,2023,electric,manual,1400.0,Córdoba,white,35868.0,km
+L101287,Ford,2022,gasoline,automatic,1000.0,Salta,grey,44497.0,km
+L101288,Fiat,2016,diesel,manual,1000.0,Rosario,white,145441.0,km
+L101289,Fiat,2021,gasoline,manual,1600.0,Córdoba,grey,101710.0,km
+L101290,Volkswagen,2011,gasoline,automatic,2000.0,Buenos Aires,white,186643.0,km
+L101291,Ford,2013,diesel,manual,1600.0,Rosario,silver,155309.0,km
+L101292,Toyota,2019,gasoline,manual,1400.0,Mendoza,black,59773.0,km
+L101293,Chevrolet,2020,gasoline,automatic,1000.0,Salta,red,79161.0,km
+L101294,Toyota,2013,gasoline,manual,1200.0,Mendoza,blue,150549.0,km
+L101295,Fiat,2023,nafta,,1400.0,Rosario,silver,21277.0,km
+L101296,Audi,2011,nafta,manual,1600.0,Rosario,grey,131663.0,km
+L101297,BMW,2008,diesel,manual,1000.0,Mendoza,white,245543.0,km
+L101298,Renault,2014,gasoline,manual,1200.0,Córdoba,silver,134465.0,km
+L101299,Toyota,2019,gasoline,automatic,1200.0,Córdoba,red,84723.0,miles
+L101300,Fiat,2012,gasoline,automatic,1000.0,Salta,grey,190332.0,km
+L101301,Audi,2024,gasoline,manual,1000.0,Córdoba,grey,35603.0,km
+L101302,Ford,2012,hybrid,MANUAL,,Salta,blue,122135.0,km
+L101303,BMW,2024,diesel,automatic,1400.0,Mendoza,white,7267.0,miles
+L101304,Renault,2024,electric,automatic,1600.0,Mendoza,grey,19706.0,miles
+L101305,Chevrolet,2008,diesel,manual,1400.0,Mendoza,grey,215349.0,km
+L101306,Chevrolet,2009,gasoline,automatic,2500.0,Córdoba,white,259636.0,km
+L101307,Ford,2010,gasoline,automatic,1200.0,Rosario,silver,92813.0,miles
+L101308,Volkswagen,2017,diesel,automatic,1400.0,Buenos Aires,white,106204.0,km
+L101309,Toyota,2016,gasoline,MANUAL,1400.0,Córdoba,blue,123367.0,km
+L101310,Toyota,2017,gasoline,Manual,2000.0,Rosario,silver,66905.0,miles
+L101311,Ford,2021,gasoline,automatic,1800.0,Salta,blue,80517.0,km
+L101312,Fiat,2017,nafta,manual,1400.0,Salta,red,143042.0,km
+L101313,Volkswagen,2011,hybrid,,1200.0,Salta,red,214889.0,km
+L101314,BMW,2025,gasoline,manual,1200.0,Salta,silver,8279.0,km
+L101315,Fiat,2011,gasoline,automatic,3000.0,Salta,black,74538.0,miles
+L101316,Audi,2008,gasoline,Manual,1600.0,Buenos Aires,grey,240515.0,km
+L101317,Chevrolet,2009,gasoline,manual,2500.0,Buenos Aires,blue,179572.0,km
+L101318,Volkswagen,2022,diesel,manual,1200.0,Buenos Aires,black,38991.0,miles
+L101319,Toyota,2017,hybrid,automatic,1000.0,Salta,white,105509.0,km
+L101320,Volkswagen,2009,diesel,Manual,1000.0,Buenos Aires,white,208625.0,km
+L101321,Renault,2023,gasoline,automatic,2000.0,Rosario,white,55318.0,km
+L101322,Toyota,2009,gasoline,manual,1800.0,Buenos Aires,black,239214.0,km
+L101323,Toyota,2023,gasoline,automatic,1600.0,Salta,red,29866.0,km
+L101324,Audi,2015,diesel,manual,1800.0,Mendoza,white,102265.0,km
+L101325,BMW,2011,diesel,manual,1600.0,Buenos Aires,silver,212238.0,km
+L101326,Ford,2017,gasoline,manual,1600.0,Rosario,white,57462.0,miles
+L101327,Toyota,2024,gasoline,manual,1400.0,Córdoba,grey,18878.0,miles
+L101328,Ford,2017,gasoline,manual,,Mendoza,silver,82926.0,km
+L101329,Renault,2019,gasoline,automatic,2000.0,Buenos Aires,blue,85382.0,km
+L101330,Audi,2013,gasoline,manual,1200.0,Salta,red,90966.0,miles
+L101331,Toyota,2012,diesel,automatic,1800.0,Buenos Aires,white,185190.0,km
+L101332,Fiat,2025,gasoline,automatic,1600.0,Salta,grey,17561.0,miles
+L101333,Audi,2020,gasoline,automatic,1600.0,Buenos Aires,white,50567.0,miles
+L101334,Audi,2023,gasoline,Automatic,1000.0,Mendoza,white,39295.0,km
+L101335,Renault,2017,electric,automatic,1400.0,Rosario,red,114108.0,km
+L101336,Chevrolet,2018,diesel,automatic,1600.0,Córdoba,grey,77498.0,km
+L101337,Fiat,2010,diesel,manual,1200.0,Mendoza,white,178461.0,km
+L101338,Toyota,2025,gasoline,manual,1000.0,Córdoba,silver,29457.0,km
+L101339,Ford,2016,gasoline,automatic,1600.0,Mendoza,blue,112024.0,km
+L101340,Audi,2013,hybrid,manual,1400.0,Buenos Aires,silver,131077.0,km
+L101341,Toyota,2016,hybrid,automatic,1400.0,Rosario,white,118006.0,km
+L101342,Toyota,2024,diesel,manual,1000.0,Córdoba,blue,23025.0,km
+L101343,Renault,2022,diesel,AUTOMATIC,1600.0,Córdoba,red,28903.0,miles
+L101344,BMW,2015,diesel,automatic,1600.0,Córdoba,black,146611.0,km
+L101345,Volkswagen,2017,gasoline,automatic,1000.0,Córdoba,black,62705.0,miles
+L101346,Renault,2008,gasoline,Manual,2000.0,Salta,white,217536.0,km
+L101347,Audi,2010,gasoline,manual,1400.0,Salta,grey,173738.0,km
+L101348,BMW,2024,gasoline,manual,2000.0,Salta,blue,39148.0,km
+L101349,Toyota,2025,diesel,manual,1200.0,Córdoba,silver,11769.0,miles
+L101350,Fiat,2012,gasoline,automatic,1800.0,Mendoza,white,222914.0,km
+L101351,Toyota,2018,gasoline,automatic,2000.0,Buenos Aires,silver,106859.0,km
+L101352,Audi,2010,gasoline,automatic,2500.0,Rosario,blue,165020.0,km
+L101353,Fiat,2019,electric,manual,1600.0,Rosario,silver,61728.0,km
+L101354,BMW,2011,gasoline,automatic,1400.0,Rosario,silver,105594.0,miles
+L101355,Volkswagen,2010,hybrid,manual,2000.0,Córdoba,silver,200525.0,km
+L101356,Toyota,2021,gasoline,automatic,1400.0,Salta,red,39483.0,miles
+L101357,Ford,2024,gasoline,automatic,1400.0,Rosario,silver,24724.0,km
+L101358,Toyota,2020,diesel,manual,1000.0,Salta,silver,82457.0,km
+L101359,Chevrolet,2020,gasoline,automatic,1400.0,Buenos Aires,black,83669.0,km
+L101360,BMW,2023,diesel,automatic,1400.0,Córdoba,black,51814.0,km
+L101361,Volkswagen,2016,hybrid,manual,1600.0,Buenos Aires,white,161033.0,km
+L101362,BMW,2012,hybrid,manual,1200.0,Córdoba,silver,86736.0,miles
+L101363,Ford,2022,diesel,manual,1600.0,Mendoza,blue,42507.0,km
+L101364,Volkswagen,2011,gasoline,manual,1200.0,Salta,black,194383.0,km
+L101365,Volkswagen,2012,diesel,automatic,1800.0,Mendoza,blue,160084.0,km
+L101366,Volkswagen,2024,gasoline,automatic,1000.0,Rosario,grey,12879.0,km
+L101367,Toyota,2013,hybrid,manual,1800.0,Rosario,silver,186164.0,km
+L101368,Toyota,2012,hybrid,automatic,2500.0,Salta,blue,151257.0,km
+L101369,Toyota,2012,gasoline,manual,1000.0,Córdoba,red,136008.0,km
+L101370,Fiat,2009,diesel,manual,2000.0,Buenos Aires,silver,220320.0,km
+L101371,Volkswagen,2011,diesel,manual,1800.0,Rosario,white,223917.0,km
+L101372,Audi,2022,diesel,manual,1400.0,Buenos Aires,grey,51422.0,km
+L101373,Fiat,2008,gasoline,manual,1000.0,Mendoza,grey,150416.0,km
+L101374,Ford,2011,hybrid,automatic,2000.0,Mendoza,white,119370.0,miles
+L101375,Toyota,2015,gasoline,manual,1600.0,Mendoza,white,164616.0,km
+L101376,Fiat,2019,hybrid,automatic,1800.0,Córdoba,black,130937.0,km
+L101377,BMW,2025,gasoline,manual,1000.0,Mendoza,blue,36012.0,km
+L101378,Toyota,2013,gasoline,automatic,1200.0,Rosario,black,194682.0,km
+L101379,Renault,2008,gasoline,manual,2000.0,Salta,black,210482.0,km
+L101380,Audi,2020,diesel,manual,1800.0,Córdoba,blue,48114.0,miles
+L101381,BMW,2023,gasoline,automatic,1200.0,Salta,grey,45556.0,km
+L101382,Toyota,2015,gasoline,manual,1800.0,Córdoba,blue,134337.0,km
+L101383,Volkswagen,2015,gasoline,automatic,2500.0,Buenos Aires,silver,140811.0,km
+L101384,BMW,2022,gasoline,automatic,1000.0,Buenos Aires,blue,60577.0,km
+L101385,Renault,2017,gasoline,manual,2000.0,Buenos Aires,red,67685.0,miles
+L101386,Toyota,2012,gasoline,manual,1600.0,Buenos Aires,silver,159311.0,km
+L101387,Ford,2020,gasoline,AUTOMATIC,1800.0,Salta,black,77745.0,km
+L101388,Ford,2008,gasoline,manual,1400.0,Mendoza,grey,223980.0,km
+L101389,Ford,2011,diesel,manual,2500.0,Salta,black,101706.0,miles
+L101390,Audi,2014,gasoline,automatic,1600.0,Buenos Aires,black,128403.0,km
+L101391,Chevrolet,2018,gasoline,manual,1400.0,Rosario,blue,101777.0,km
+L101392,Audi,2008,gasoline,automatic,2000.0,Mendoza,red,188897.0,km
+L101393,Chevrolet,2017,nafta,automatic,1400.0,Mendoza,red,137435.0,km
+L101394,Audi,2012,diesel,automatic,1000.0,Mendoza,blue,184170.0,km
+L101395,Volkswagen,2014,nafta,automatic,1400.0,Mendoza,white,186417.0,km
+L101396,Audi,2012,gasoline,automatic,1400.0,Buenos Aires,blue,155377.0,km
+L101397,Renault,2018,hybrid,Manual,3000.0,Rosario,red,97192.0,km
+L101398,Chevrolet,2012,gasoline,automatic,2500.0,Salta,black,136285.0,km
+L101399,Ford,2008,gasoline,manual,1200.0,Córdoba,white,201255.0,km
+L101400,BMW,2011,gasoline,automatic,1600.0,Rosario,silver,194207.0,km
+L101401,Volkswagen,2017,gasoline,Automatic,1400.0,Rosario,white,123790.0,km
+L101402,Audi,2013,gasoline,automatic,2500.0,Buenos Aires,grey,124998.0,km
+L101403,Ford,2017,gasoline,automatic,1600.0,Rosario,silver,91968.0,km
+L101404,Volkswagen,2020,electric,automatic,1200.0,Rosario,grey,74431.0,km
+L101405,Renault,2019,gasoline,MANUAL,2000.0,Mendoza,silver,81823.0,km
+L101406,BMW,2009,diesel,automatic,2000.0,Rosario,black,220744.0,km
+L101407,Chevrolet,2024,hybrid,automatic,1400.0,Buenos Aires,black,20688.0,km
+L101408,Ford,2022,gasoline,automatic,1400.0,Salta,red,31375.0,miles
+L101409,Volkswagen,2015,hybrid,manual,1400.0,Mendoza,silver,64845.0,miles
+L101410,BMW,2010,hybrid,manual,1600.0,Rosario,red,232826.0,km
+L101411,BMW,2010,nafta,automatic,2500.0,Salta,silver,204760.0,km
+L101412,Chevrolet,2021,diesel,manual,2500.0,Buenos Aires,white,72360.0,km
+L101413,Ford,2009,gasoline,manual,1600.0,Rosario,grey,226710.0,km
+L101414,Audi,2020,hybrid,automatic,2000.0,Salta,black,81567.0,km
+L101415,Volkswagen,2012,gasoline,automatic,2500.0,Córdoba,white,192019.0,km
+L101416,Chevrolet,2016,diesel,automatic,2500.0,Rosario,black,150457.0,km
+L101417,Chevrolet,2010,electric,Automatic,1200.0,Córdoba,grey,212143.0,km
+L101418,Fiat,2015,hybrid,manual,1000.0,Córdoba,white,162654.0,km
+L101419,Toyota,2024,diesel,manual,1600.0,Córdoba,silver,46846.0,km
+L101420,Ford,2009,hybrid,manual,1600.0,Mendoza,white,201471.0,km
+L101421,Chevrolet,2014,electric,automatic,3000.0,Rosario,grey,114140.0,miles
+L101422,Fiat,2024,gasoline,manual,1800.0,Buenos Aires,red,13679.0,km
+L101423,BMW,2018,gasoline,Manual,1000.0,Salta,blue,105212.0,km
+L101424,Fiat,2019,gasoline,automatic,1000.0,Buenos Aires,black,96976.0,km
+L101425,Fiat,2010,gasoline,manual,2000.0,Buenos Aires,blue,225023.0,km
+L101426,BMW,2012,gasoline,automatic,1600.0,Salta,black,176648.0,km
+L101427,Audi,2010,diesel,automatic,1800.0,Buenos Aires,red,123859.0,miles
+L101428,Ford,2011,gasoline,manual,1600.0,Córdoba,white,110731.0,miles
+L101429,BMW,2015,hybrid,automatic,1400.0,Córdoba,silver,147087.0,km
+L101430,Audi,2024,gasoline,automatic,1600.0,Mendoza,red,38486.0,km
+L101431,Toyota,2021,electric,manual,2000.0,Rosario,red,60151.0,km
+L101432,Volkswagen,2018,electric,MANUAL,1800.0,Rosario,blue,133004.0,km
+L101433,Renault,2020,gasoline,manual,1400.0,Rosario,white,47088.0,miles
+L101434,Renault,2022,diesel,manual,1400.0,Mendoza,red,66236.0,km
+L101435,BMW,2012,hybrid,automatic,1200.0,Mendoza,red,178300.0,km
+L101436,Toyota,2022,diesel,automatic,,Córdoba,blue,44169.0,km
+L101437,Toyota,2016,diesel,MANUAL,1000.0,Córdoba,black,102209.0,km
+L101438,Chevrolet,2008,gasoline,automatic,2500.0,Salta,blue,212941.0,km
+L101439,Ford,2023,gasoline,manual,,Salta,blue,15988.0,miles
+L101440,Volkswagen,2023,diesel,automatic,1400.0,Mendoza,white,39766.0,km
+L101441,Toyota,2021,gasoline,automatic,1400.0,Mendoza,red,67495.0,km
+L101442,Audi,2019,gasoline,manual,2000.0,Córdoba,white,94741.0,km
+L101443,Volkswagen,2025,diesel,automatic,1400.0,Rosario,blue,13284.0,km
+L101444,Toyota,2016,gasoline,manual,1000.0,Salta,white,99116.0,km
+L101445,BMW,2023,electric,manual,1400.0,Córdoba,silver,40768.0,km
+L101446,Renault,2017,diesel,manual,2000.0,Buenos Aires,white,75418.0,miles
+L101447,Ford,2008,diesel,automatic,2000.0,Salta,blue,148569.0,miles
+L101448,Toyota,2017,diesel,automatic,2000.0,Buenos Aires,blue,120018.0,km
+L101449,Toyota,2021,gasoline,automatic,2500.0,Buenos Aires,white,28914.0,miles
+L101450,BMW,2023,hybrid,automatic,1800.0,Mendoza,red,33983.0,km
+L101451,Toyota,2023,diesel,automatic,1000.0,Buenos Aires,red,44411.0,km
+L101452,Ford,2013,diesel,manual,1200.0,Rosario,silver,100886.0,miles
+L101453,Renault,2012,gasoline,manual,2500.0,Mendoza,red,161225.0,km
+L101454,Toyota,2009,gasoline,manual,1200.0,Mendoza,red,197499.0,km
+L101455,Chevrolet,2009,gasoline,automatic,2000.0,Buenos Aires,silver,199705.0,km
+L101456,Fiat,2011,gasoline,automatic,1000.0,Córdoba,red,209280.0,km
+L101457,Fiat,2012,gasoline,manual,1600.0,Mendoza,black,146636.0,km
+L101458,Ford,2020,hybrid,AUTOMATIC,1200.0,Salta,blue,110229.0,km
+L101459,Ford,2017,gasoline,MANUAL,1400.0,Rosario,silver,116087.0,km
+L101460,Chevrolet,2015,gasoline,manual,2000.0,Buenos Aires,blue,162427.0,km
+L101461,Audi,2016,gasoline,manual,2000.0,Salta,silver,133922.0,km
+L101462,Renault,2015,diesel,automatic,1200.0,Córdoba,grey,175755.0,km
+L101463,Audi,2021,gasoline,manual,1800.0,Buenos Aires,blue,68068.0,km
+L101464,Toyota,2024,gasoline,manual,1000.0,Salta,white,0.0,km
+L101465,Chevrolet,2016,gasoline,MANUAL,1600.0,Rosario,grey,69345.0,miles
+L101466,Ford,2017,gasoline,manual,1200.0,Mendoza,silver,146528.0,km
+L101467,Ford,2024,diesel,manual,1800.0,Córdoba,white,18747.0,km
+L101468,Toyota,2009,gasoline,automatic,1600.0,Córdoba,black,180346.0,km
+L101469,Audi,2018,diesel,manual,2000.0,Córdoba,blue,59748.0,km
+L101470,Toyota,2014,gasoline,manual,1200.0,Rosario,black,161842.0,km
+L101471,Ford,2015,nafta,,2500.0,Mendoza,red,182237.0,km
+L101472,Ford,2015,gasoline,automatic,2500.0,Salta,red,122979.0,km
+L101473,Volkswagen,2019,diesel,manual,1600.0,Mendoza,silver,65041.0,km
+L101474,Chevrolet,2025,diesel,automatic,1600.0,Mendoza,grey,25427.0,km
+L101475,Toyota,2009,gasoline,manual,2000.0,Mendoza,red,213603.0,km
+L101476,Toyota,2010,electric,manual,1600.0,Buenos Aires,black,173043.0,km
+L101477,Ford,2012,diesel,automatic,1600.0,Salta,blue,145710.0,km
+L101478,BMW,2020,diesel,manual,1000.0,Mendoza,blue,87367.0,km
+L101479,BMW,2008,nafta,automatic,1600.0,Salta,black,212797.0,km
+L101480,BMW,2021,gasoline,automatic,1600.0,Córdoba,white,49119.0,km
+L101481,Renault,2024,diesel,manual,2500.0,Rosario,silver,16269.0,km
+L101482,Toyota,2010,gasoline,AUTOMATIC,,Mendoza,grey,112441.0,miles
+L101483,Renault,2015,gasoline,manual,1200.0,Rosario,grey,88744.0,km
+L101484,Ford,2025,electric,manual,1200.0,Rosario,grey,25917.0,km
+L101485,Toyota,2017,gasoline,automatic,1800.0,Salta,silver,111099.0,km
+L101486,Ford,2012,gasoline,manual,1800.0,Salta,silver,187485.0,km
+L101487,Chevrolet,2017,gasoline,manual,1000.0,Salta,red,116497.0,km
+L101488,Renault,2009,diesel,Manual,1200.0,Salta,white,200094.0,km
+L101489,Chevrolet,2010,gasoline,manual,1000.0,Mendoza,red,220850.0,km
+L101490,Fiat,2024,gasoline,automatic,2000.0,Mendoza,white,13191.0,km
+L101491,Renault,2008,diesel,manual,1000.0,Buenos Aires,black,171978.0,km
+L101492,Renault,2025,diesel,manual,1600.0,Córdoba,red,12459.0,km
+L101493,Chevrolet,2011,diesel,automatic,1200.0,Rosario,white,165199.0,km
+L101494,Fiat,2017,diesel,manual,1200.0,Salta,grey,101571.0,miles
+L101495,Fiat,2014,gasoline,automatic,1600.0,Salta,red,86699.0,miles
+L101496,Ford,2012,diesel,automatic,1200.0,Buenos Aires,grey,106668.0,miles
+L101497,Ford,2020,gasoline,AUTOMATIC,2000.0,Mendoza,red,75168.0,km
+L101498,Chevrolet,2008,electric,AUTOMATIC,,Salta,silver,249772.0,km
+L101499,Fiat,2021,diesel,automatic,1400.0,Rosario,grey,62762.0,km
+L101500,Chevrolet,2024,gasoline,manual,1400.0,Córdoba,silver,37251.0,km

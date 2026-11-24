@@ -39,6 +39,12 @@ Note: numbers may vary slightly between library versions.
 ### Selected Final Model
 `Ridge` is selected as the final model because it achieves the lowest MAE (`556.14 ± 14.47 USD`) and lowest MAPE (`8.90% ± 0.14%`) in 5-fold cross-validation. Percentage depreciation across vehicle age and mileage aligns closely with a linear pattern on the log-price scale (`log1p`), so a regularized linear model generalizes cleanly without overfitting and is straightforward to explain. Tuning `alpha` via 5-fold CV showed that `alpha` had no practical effect on cross-validation error; single evaluation on the untouched 20% hold-out test set achieved **MAE = 547.79 USD**, **MAPE = 8.68%**, and **R² = 0.9675** (numbers may vary slightly between library versions).
 
+## Visual Diagnostics
+
+![Predicted vs. Actual Price](predicted_vs_actual.png)
+
+![Permutation Importance](feature_importance.png)
+
 ## Limitations
 - High-value listings have fewer historical examples, leading to wider dispersion at upper price levels.
 - Static listing fields do not capture real-time market shifts or physical vehicle condition.
